@@ -223,7 +223,7 @@
 	 
 	<test name="Register6">
  			<classes>
- 								<class name="Register.SMSSettingRegisterPage"/>	
+ 							<class name="Register.SMSSettingRegisterPage"/>	
  			</classes>
 	</test>
 

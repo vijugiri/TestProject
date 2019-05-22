@@ -30,7 +30,6 @@ public class NoticetTest extends BaseClass {
 	LoginPage objLoginPage=new LoginPage();
 	BaseClass objBaseClass= new BaseClass();
 	LoginPageView objLoginPageView= new LoginPageView();
-
 	AppointmentView objAppointmentView= new AppointmentView();
 	DashboardView objDashboardView= new DashboardView();
 	BookApointmentFromDashboard objBookApointmentFromDashboard= new BookApointmentFromDashboard();
@@ -50,15 +49,14 @@ public class NoticetTest extends BaseClass {
 	String strval3=null;
 	String strval4=null;
 	
-	
-	
+
 
 	// make sure mobile number and password should be correct
 	@Test(priority = 1, dataProvider ="inputData")
 	public void Login(String url,String Mob,String Pass ) throws InterruptedException 
 		{
 		objBaseClass.LocalBrowserInit(url);
-	
+	System.out.println(url);
 			objLoginPageView.Login(Mob,Pass);
 		
 			objLoginPageView.YesPopup();
