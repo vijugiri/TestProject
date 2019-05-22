@@ -1,0 +1,10 @@
+<suite name ="AddPatientData">
+		<listeners>
+				<listener class-name ="com.screenshot.ListenerTest"></listener>
+		</listeners>
+			<test name="Automationtesting">
+		<classes>
+					<class name="com.test.AddPatientData"/>
+		</classes>
+	</test>
+</suite>
