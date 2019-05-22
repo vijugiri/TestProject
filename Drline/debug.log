@@ -1,0 +1,17 @@
+[0102/161502.014:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir776_2462\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0102/161832.364:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir10032_17466\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0103/182122.208:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir25920_13481\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0104/121811.469:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir12544_29151\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0110/120326.272:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir15236_29342\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0110/125233.788:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir15468_14642\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0111/154306.688:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir4424_29035\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0112/122923.385:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir13304_24638\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0117/103756.415:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir6296_7854\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0118/185920.423:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir18104_30039\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0119/180214.238:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir14688_32245\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0125/125528.885:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir12060_25762\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0125/184754.003:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir13740_25595\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0128/162516.212:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir14848_8\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0205/174608.663:ERROR:file_io_win.cc(179)] CreateFile C:\Users\DOCTOS~1\AppData\Local\Temp\scoped_dir2596_32469\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0427/131601.088:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0427/132336.659:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports

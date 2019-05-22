@@ -1,0 +1,20 @@
+<suite name="DrlineAutomation">
+
+<listeners>
+				<listener class-name ="com.main.Listenertest"></listener>
+</listeners>
+	 <test name="Drline">
+ 		<classes>			
+ 		
+ 		
+ 			<class name="forrowrdFlow.paidFromPatienBillingtest" />
+ 				
+ 					
+ 						
+ 					
+ 						
+ 					
+ 					
+	 </classes>
+ 	</test>
+</suite>

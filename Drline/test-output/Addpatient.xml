@@ -1,0 +1,10 @@
+<suite name ="Addexternalpatientdata">
+		<listeners>
+				<listener class-name ="com.screenshot.ListenerTest"></listener>
+		</listeners>
+			<test name="Automationtesting">
+		<classes>
+					<class name="Drclinic.PatientData"/>
+		</classes>
+	</test>
+</suite>

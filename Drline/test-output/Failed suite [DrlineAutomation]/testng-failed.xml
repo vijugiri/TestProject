@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [DrlineAutomation]]">
+  <listeners>
+    <listener class-name="com.screenshot.ListenerTest"/>
+  </listeners>
+  <test name="Vijay(failed)(failed)">
+    <classes>
+      <class name="com.screenshot.FailScreen">
+        <methods>
+          <include name="PatientDataWritest"/>
+        </methods>
+      </class> <!-- com.screenshot.FailScreen -->
+      <class name="Drclinic.PatientData">
+        <methods>
+          <include name="PatientDataWri"/>
+        </methods>
+      </class> <!-- Drclinic.PatientData -->
+    </classes>
+  </test> <!-- Vijay(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [DrlineAutomation]] -->

@@ -1,0 +1,15 @@
+<suite name="DrlineAutomation">
+
+<listeners>
+				<listener class-name ="com.main.Listenertest"></listener>
+		</listeners>
+	 <test name="Drline">
+ 		<classes>
+ 				
+ 						<class name="loginTest.LoginTest" />	
+ 						<class name="loginTest.CompleteLogin" />	
+ 						
+		 	
+	 </classes>
+ 	</test>
+</suite>

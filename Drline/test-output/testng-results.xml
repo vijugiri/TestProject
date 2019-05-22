@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="118210" started-at="2019-05-21T11:11:31Z" finished-at="2019-05-21T11:13:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="118210" started-at="2019-05-21T11:11:31Z" finished-at="2019-05-21T11:13:29Z">
+      <class name="NoticeTest.NoticetTest">
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:NoticeTest.NoticetTest@e7edb54]" name="Login" duration-ms="43530" started-at="2019-05-21T11:11:32Z" data-provider="inputData" finished-at="2019-05-21T11:12:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://demo.drline.in/drline-webapp-demo/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8888085560]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="addAndverifyNoticeAndCancel()[pri:2, instance:NoticeTest.NoticetTest@e7edb54]" name="addAndverifyNoticeAndCancel" duration-ms="21990" started-at="2019-05-21T11:12:15Z" finished-at="2019-05-21T11:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAndverifyNoticeAndCancel -->
+        <test-method status="PASS" signature="addAndverifyNotice()[pri:3, instance:NoticeTest.NoticetTest@e7edb54]" name="addAndverifyNotice" duration-ms="18430" started-at="2019-05-21T11:12:37Z" finished-at="2019-05-21T11:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAndverifyNotice -->
+        <test-method status="PASS" signature="updateNotice()[pri:4, instance:NoticeTest.NoticetTest@e7edb54]" name="updateNotice" duration-ms="14754" started-at="2019-05-21T11:12:56Z" finished-at="2019-05-21T11:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateNotice -->
+        <test-method status="PASS" signature="DeleteNotice()[pri:5, instance:NoticeTest.NoticetTest@e7edb54]" name="DeleteNotice" duration-ms="18356" started-at="2019-05-21T11:13:10Z" finished-at="2019-05-21T11:13:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteNotice -->
+      </class> <!-- NoticeTest.NoticetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,27 @@
+[-0.000][INFO]:     ChromeDriver 22.0.1203.0 D:\Application\chromedriver.exe
+[0.669][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   },
+   "platform": "ANY",
+   "version": ""
+}
+
+[0.669][INFO]:      Launching chrome: "D:\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --ignore-certificate-errors --disable-popup-blocking --homepage=about:blank
+[45.671][SEVERE]:   Failed to initialize connection
+[45.673][INFO]:     Chrome shutdown
+[45.799][FINE]:     Initializing session with capabilities {
+   "browserName": "chrome",
+   "chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   },
+   "platform": "ANY",
+   "version": ""
+}
+
+[45.799][INFO]:     Launching chrome: "D:\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --ignore-certificate-errors --disable-popup-blocking --homepage=about:blank
+[90.803][SEVERE]:   Failed to initialize connection
+[90.803][INFO]:     Chrome shutdown

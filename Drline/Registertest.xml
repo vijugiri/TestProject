@@ -1,0 +1,19 @@
+<suite name="DrlineAutomation">
+
+<listeners>
+				<listener class-name ="com.main.Listenertest"></listener>
+		</listeners>
+	 <test name="Drline">
+ 		<classes>			
+ 					<class name="Register.CompleteRegisterClinic"/>	
+ 				
+ 					<class name="Register.Clinic_AdminDetailsTest"/>					
+ 					<class name="Register.RegisterPaymentmode"/>
+ 					<class name="Register.ModuleSectionAndBilling"/>
+ 					<class name="Register.PaymentRegister"/>
+ 					<class name="Register.SMSSettingRegisterPage"/>
+ 					<class name="Register.RegisterPageTest"/>
+ 					
+	 </classes>
+ 	</test>
+</suite>

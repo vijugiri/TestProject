@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.main.BaseReport"/>
+      <class name="Register.RegisterPageTest"/>
+      <class name="com.extenrreport.test"/>
+      <class name="Register.RegisterPaymentmode"/>
+      <class name="Master.AddNewEmployeeTest"/>
+      <class name="com.util.InputData"/>
+      <class name="forrowrdFlow.PendingAndWithInventory"/>
+      <class name="DashBoard.Notification"/>
+      <class name="Appointment.ComponentsOnAppointment"/>
+      <class name="DashBoard.DashboardComponents"/>
+      <class name="loginTest.LoginTest"/>
+      <class name=".test"/>
+      <class name="Register.ModuleSectionAndBilling"/>
+      <class name="forrowrdFlow.paidFromPatienBillingtest"/>
+      <class name="FollowUpPriscription.followUpPriscription"/>
+      <class name="Transaction.CollectionAndExpendituree"/>
+      <class name="loginTest.CompleteLogin"/>
+      <class name="Setting.SettingAllocation"/>
+      <class name="NoticeTest.NoticetTest"/>
+      <class name="DashBoard.BookApointmentFromDashboard"/>
+      <class name="com.util.WriteDatainExcel"/>
+      <class name="com.extenrreport.BaseReportTest"/>
+      <class name="com.main.GenerateExtentReports"/>
+      <class name="Transaction.Handover"/>
+      <class name="com.register.RegisterpageView"/>
+      <class name="AllReports.patientReports"/>
+      <class name="Appointment.ValidationOnAddPatientPage"/>
+      <class name="Register.PaymentRegister"/>
+      <class name="Attendence.attendenceOperations"/>
+      <class name="Trenment.treatmentSettingTest"/>
+      <class name="Appointment.BookAppointmentFromAddPatientAppointmentPage"/>
+      <class name="forrowrdFlow.HappyFlow"/>
+      <class name="Register.CompleteRegisterClinic"/>
+      <class name="Register.Clinic_AdminDetailsTest"/>
+      <class name="Register.SMSSettingRegisterPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

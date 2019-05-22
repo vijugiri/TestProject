@@ -1,0 +1,12 @@
+<suite name="DrlineAutomation">
+
+<listeners>
+				<listener class-name ="com.main.Listenertest"></listener>
+		</listeners>
+	 <test name="Drline">
+ 		<classes>			
+ 					<class name="DashBoard.DashboardComponents"/>	
+ 				
+	 </classes>
+ 	</test>
+</suite>

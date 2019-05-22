@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Addexternalpatientdata]">
+  <listeners>
+    <listener class-name="com.screenshot.ListenerTest"/>
+  </listeners>
+  <test name="Automationtesting(failed)">
+    <classes>
+      <class name="com.screenshot.FailScreen">
+        <methods>
+          <include name="PatientDataWritest"/>
+        </methods>
+      </class> <!-- com.screenshot.FailScreen -->
+    </classes>
+  </test> <!-- Automationtesting(failed) -->
+</suite> <!-- Failed suite [Addexternalpatientdata] -->

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DrlineAutomation">
+<!--  <suite name="DrlineAutomation" parallel="test" threadcount="2" > -->
+<listeners>
+				<listener class-name ="com.extenrreport.extentReportlistner"></listener>
+				<listener class-name ="com.screenshot.ListenerTest"></listener>
+			
+</listeners>
+	 <test name="Drline">
+ 			<classes>
+ 							<class name="inventoryOFClicnic.Vendor_test"/>	
+ 			</classes>
+	</test>
+		
+ 	<test name="test">
+ 			<classes>
+ 							<class name="inventoryOFClicnic.ClinicMedicines"/>	
+ 			</classes>
+	</test>
+ 	
+ 	<test name="test1">
+ 			<classes>
+ 							<class name="inventoryOFClicnic.purchaseOrder"/>	
+ 			</classes>
+	</test>
+
+ 	 <test name="Noticeboard">
+ 			<classes>
+ 							<class name="NoticeTest.NoticetTest"/>	
+ 			</classes>
+	</test>
+	
+ 	 <test name="HappyFlow">
+ 			<classes>
+ 							<class name="forrowrdFlow.paidFromPatienBillingtest"/>
+ 			</classes>
+	</test>
+ 	
+ 	 <test name="HappyFlow1">
+ 			<classes>
+ 							<class name="forrowrdFlow.PendingAndWithInventory"/>
+ 			</classes>
+	</test>
+	 	
+ 	 <test name="HappyFlow2">
+ 			<classes>
+ 							<class name="forrowrdFlow.HappyFlow"/>	
+ 			</classes>
+	</test>
+
+	 <test name="AllReports">
+ 			<classes>
+ 							<class name="AllReports.BookingTypeReport"/>	
+ 			</classes>
+	</test>
+
+	 <test name="AllReports1">
+ 			<classes>
+ 							<class name="AllReports.CollectionReport"/>	
+ 			</classes>
+	</test>
+
+	 <test name="AllReports2">
+ 			<classes>
+ 							<class name="AllReports.expenseReport"/>	
+ 			</classes>
+	 </test>
+
+	<test name="FollowUpPriscription">
+ 			<classes>
+ 							<class name="FollowUpPriscription.followUpPriscription"/>	
+ 			</classes>
+	</test>
+		 	
+	 <test name="Appointment">
+ 			<classes>
+ 							<class name="Appointment.BookAppointmentFromAddPatientAppointmentPage"/>	
+ 			</classes>
+	  </test>
+		 	
+		 	
+		<test name="Appointment1">
+ 			<classes>
+ 							<class name="Appointment.ComponentsOnAppointment"/>	
+ 			</classes>
+	  </test>
+
+	<test name="Appointment2">
+ 			<classes>
+ 							<class name="Appointment.ValidationOnAddPatientPage"/>	
+ 			</classes>
+	  </test>
+		 	
+		 	
+	 <test name="Attendence">
+ 			<classes>
+ 								<class name="Attendence.attendenceOperations"/>	
+ 			</classes>
+	 </test>
+		 	
+	<test name="DashBoard1">
+ 			<classes>
+ 								<class name="DashBoard.DashboardComponents"/>	
+ 			</classes>
+	</test>	 	
+		 	
+     	
+	<test name="DashBoard2">
+ 			<classes>
+ 								<class name="DashBoard.Notification"/>	
+ 			</classes>
+	</test>	 	
+		 	
+	 <test name="Transaction">
+ 			<classes>
+ 								<class name="Transaction.CollectionAndExpendituree"/>	
+ 			</classes>
+	</test>
+
+	 <test name="Transaction1">
+ 			<classes>
+ 								<class name="Transaction.Handover"/>	
+ 			</classes>
+ 			
+	</test>
+	 <test name="Trenment">
+ 			<classes>
+ 								<class name="Trenment.treatmentSettingTest"/>	
+ 			</classes>
+	</test>	 	
+
+		 	
+	<test name="DashBoard3">
+ 			<classes>
+ 								<class name="DashBoard.Notification"/>	
+ 			</classes>
+	</test>
+		 	
+	<test name="loginTest">
+ 			<classes>
+ 								<class name="loginTest.CompleteLogin"/>	
+ 			</classes>
+	</test>
+		 	
+		 	
+	<test name="loginTest1">
+ 			<classes>
+ 								<class name="loginTest.LoginTest"/>	
+ 			</classes>
+	</test>
+		 	
+	<test name="Master">
+ 			<classes>
+ 								<class name="Master.AddNewEmployeeTest"/>	
+ 			</classes>
+	</test>
+		 	
+		 	
+	<test name="Master1">
+ 			<classes>
+ 								<class name="Master.AddnewRole"/>	
+ 			</classes>
+	</test>
+		 		
+	<test name="Master2">
+ 			<classes>
+ 								<class name="Master.FeesStructure"/>	
+ 			</classes>
+	</test>
+		 	
+		 		
+	<test name="Master3">
+ 			<classes>
+ 								<class name="Master.AddBranch"/>	
+ 			</classes>
+	</test>
+		 	
+
+	<test name="DashBoard">
+ 			<classes>
+ 								<class name="DashBoard.BookApointmentFromDashboard"/>	
+ 			</classes>
+	</test> 	
+		 	
+	<test name="Register">
+ 			<classes>
+ 								<class name="Register.Clinic_AdminDetailsTest"/>	
+ 			</classes>
+	</test>
+		 	
+		 	
+	<test name="Register1">
+ 			<classes>
+ 								<class name="Register.CompleteRegisterClinic"/>	
+ 			</classes>
+	</test>
+		 	
+	<test name="Register2">
+ 			<classes>
+ 								<class name="Register.ModuleSectionAndBilling"/>	
+ 			</classes>
+	</test>
+		 	
+	<test name="Register3">
+ 			<classes>
+ 								<class name="Register.PaymentRegister"/>	
+ 			</classes>
+	</test>
+		 	
+	<test name="Register4">
+ 			<classes>
+ 								<class name="Register.RegisterPageTest"/>	
+ 			</classes>
+	</test>
+
+	<test name="Register5">
+ 			<classes>
+ 								<class name="Register.RegisterPaymentmode"/>	
+ 			</classes>
+	</test>
+	 
+	 
+	<test name="Register6">
+ 			<classes>
+ 								<class name="Register.SMSSettingRegisterPage"/>	
+ 			</classes>
+	</test>
+
+</suite>

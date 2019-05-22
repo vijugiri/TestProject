@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="loginTest.LoginTest">
+        <methods>
+          <include name="invalidMobOrPass"/>
+          <include name="loginWithUsernameAndWithoutPassword"/>
+          <include name="loginWithoutUsenameAndWithPassword"/>
+          <include name="LoginWithoutSelectingClinic"/>
+          <include name="Login"/>
+          <include name="Logout"/>
+          <include name="componentDisplayedonLoginpage"/>
+          <include name="loginWithoutUserNameAndPassword"/>
+          <include name="unrRgisteredUser"/>
+        </methods>
+      </class> <!-- loginTest.LoginTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

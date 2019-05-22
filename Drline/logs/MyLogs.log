@@ -1,0 +1,2095 @@
+[INFO ] 2019-01-12 10:03:24.759 [main] Log4j - this in info msg
+[INFO ] 2019-01-12 10:07:51.201 [main] Log4j - this in info msg print is passing
+[INFO ] 2019-01-12 10:46:04.484 [main] Log4j - this in info msg print is passing
+[INFO ] 2019-01-12 10:58:52.845 [main] Log4j - this in info msg print is passing
+[INFO ] 2019-01-12 11:39:23.902 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 11:39:25.097 [main] Log4j - All fields are displayed in register page
+[INFO ] 2019-01-12 11:40:57.026 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 11:48:22.819 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 11:55:19.403 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 11:58:09.786 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 12:19:41.250 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 12:21:28.344 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 12:29:31.423 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 12:36:25.513 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 12:37:38.787 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 12:45:20.901 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 12:52:11.880 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 12:55:19.690 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 12:57:12.779 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 13:07:49.200 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 13:09:18.659 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 13:12:17.903 [main] Log4j - Local browser has started
+[INFO ] 2019-01-12 13:14:14.002 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 09:59:36.232 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 11:50:56.587 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 11:54:58.218 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 11:56:21.925 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 12:22:11.171 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 12:25:56.459 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 13:05:49.852 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 13:21:30.120 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 13:43:23.590 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 13:46:24.590 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 13:56:09.956 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 13:59:45.490 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 14:02:57.594 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 14:04:40.422 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 14:24:32.319 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:01:24.673 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:02:21.406 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:03:15.046 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:05:52.190 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:06:03.265 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:06:54.428 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:09:38.849 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:11:59.061 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:14:13.040 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:14:23.431 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:15:16.999 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:18:10.890 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:18:20.524 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:19:16.829 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:22:33.489 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:25:02.970 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:25:50.900 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 15:26:59.354 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 16:44:14.163 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 16:45:05.051 [main] Log4j - Local browser has started
+[INFO ] 2019-01-14 16:46:15.393 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 11:36:54.806 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 11:37:44.672 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 11:40:17.435 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 11:41:08.117 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 11:45:17.875 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 11:46:11.850 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 11:54:06.220 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 11:55:03.898 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 11:59:13.865 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 12:00:53.904 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 12:42:16.080 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 12:45:30.829 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 12:47:15.585 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 12:51:04.076 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 12:51:57.844 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 13:08:31.412 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 13:29:00.193 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 13:32:14.682 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 13:33:49.591 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 13:37:07.765 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 13:43:54.854 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 13:45:25.802 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 13:52:31.292 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 13:53:35.649 [main] Log4j - Local browser has started
+[INFO ] 2019-01-15 18:21:42.832 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 10:12:54.205 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 10:23:22.960 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 10:39:11.325 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 10:52:13.857 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 10:54:32.624 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 10:56:12.732 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:00:39.670 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:14:23.370 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:35:15.194 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:38:11.565 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:41:03.507 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:41:55.295 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:42:56.853 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:43:31.345 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:45:06.499 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:45:58.736 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:46:07.885 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:47:12.675 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:47:50.399 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:50:43.593 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:56:42.427 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 11:58:43.960 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 12:00:31.086 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 12:24:03.371 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 12:30:11.372 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 12:38:04.832 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 12:54:20.739 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 12:59:48.372 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 13:09:10.932 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 13:09:55.861 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 13:20:02.435 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 13:26:00.837 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 13:28:50.822 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 13:33:55.755 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 13:35:09.424 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 13:52:50.891 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 13:53:54.954 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 14:04:38.467 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 14:05:16.470 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 14:05:54.024 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 14:06:05.918 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 14:27:02.472 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 14:27:40.474 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 14:28:18.360 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 14:28:56.381 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:16:40.640 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:17:30.903 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:17:42.515 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:17:54.207 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:19:48.338 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:20:38.676 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:22:24.405 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:24:27.546 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:25:23.413 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:30:01.916 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:30:44.891 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:35:29.636 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:36:21.153 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:36:35.178 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:37:17.136 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:38:26.376 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:39:17.334 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:39:55.076 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 15:40:37.213 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 20:25:08.872 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 20:25:52.091 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 20:37:52.642 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 20:42:29.112 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 20:43:18.293 [main] Log4j - Local browser has started
+[INFO ] 2019-01-16 20:49:39.595 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 10:26:07.422 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 10:38:03.333 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 10:40:26.210 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 10:42:59.011 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:07:07.175 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:07:57.096 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:08:07.526 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:08:46.100 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:09:50.792 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:10:37.686 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:11:09.497 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:11:41.924 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:12:17.764 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:23:25.345 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:23:55.456 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:26:20.561 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:26:53.954 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:39:07.122 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:39:42.247 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:41:31.522 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:42:22.874 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:44:47.025 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:45:24.208 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:47:52.357 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:48:29.305 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 11:50:48.606 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 12:24:16.521 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 12:32:36.987 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 12:33:12.675 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 12:35:45.511 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 12:36:24.797 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 12:37:01.591 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 12:56:01.293 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 12:56:38.054 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 12:57:15.347 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 12:59:00.050 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 13:00:53.145 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 13:05:07.953 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 13:08:08.993 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 13:18:08.951 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 13:23:11.905 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 13:25:52.071 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 13:30:03.651 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 14:00:29.816 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:16:44.406 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:18:56.448 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:19:46.749 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:19:57.394 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:20:22.985 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:20:29.467 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:21:05.872 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:21:24.746 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:22:04.802 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:28:38.201 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:30:47.789 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:35:54.617 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:36:33.532 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:38:47.422 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:39:25.403 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:41:28.902 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:42:19.115 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:42:29.737 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:43:10.733 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:43:46.938 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:45:00.100 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:45:47.827 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:46:14.598 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:46:46.057 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:57:41.410 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:58:25.326 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:59:06.845 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 15:59:17.436 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 16:00:04.611 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 16:01:19.028 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 16:01:56.704 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 16:02:06.956 [main] Log4j - Local browser has started
+[INFO ] 2019-01-17 16:02:44.174 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:12:12.045 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:13:02.627 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:13:12.530 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:13:53.690 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:14:04.497 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:14:43.068 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:14:50.836 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:15:57.668 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:16:47.038 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:16:56.825 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:17:25.686 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:17:33.982 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:18:05.253 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:19:02.195 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:20:02.403 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:23:33.459 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:24:10.878 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:26:08.357 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:26:46.459 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:48:07.084 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:49:09.135 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:49:58.652 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:50:52.521 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:51:25.815 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:54:11.680 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:55:00.649 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:55:57.213 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:56:33.991 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:57:48.875 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:59:11.760 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 10:59:51.984 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:01:57.332 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:02:48.549 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:03:27.033 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:06:10.489 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:07:02.062 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:07:12.782 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:07:52.754 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:08:35.032 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:09:09.351 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:10:08.291 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:10:48.128 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:11:37.376 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:12:08.840 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:13:39.143 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:16:36.339 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:24:06.341 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:26:47.665 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:34:04.069 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:35:33.042 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:37:18.475 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:37:26.495 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 11:46:17.595 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 12:07:37.698 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 12:10:36.286 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 12:12:47.556 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 12:47:36.311 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 13:07:56.840 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 13:10:08.213 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 13:16:36.999 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 13:44:06.952 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 13:47:57.600 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 13:49:30.767 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 14:21:14.336 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 14:22:03.776 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:13:50.361 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:14:35.480 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:18:41.778 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:20:47.263 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:24:20.033 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:26:11.128 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:28:22.406 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:32:00.153 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:36:25.430 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:37:36.366 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:41:32.122 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:43:45.325 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:48:26.775 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:51:29.428 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:53:46.581 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:57:41.187 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 15:59:52.840 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:02:58.699 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:05:16.978 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:09:10.078 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:10:18.081 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:13:58.060 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:16:50.637 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:20:36.051 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:23:32.392 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:25:58.304 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:27:13.677 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:34:19.575 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:45:10.339 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:48:53.349 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 16:52:45.695 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 17:15:16.024 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 17:28:33.898 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 17:53:11.052 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 17:57:43.155 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:10:57.566 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:18:21.713 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:19:33.899 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:21:20.811 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:23:36.698 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:32:24.232 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:38:08.019 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:49:10.419 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:50:02.099 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:50:11.313 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:51:01.784 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:51:43.187 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:52:18.933 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:53:03.246 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:53:46.751 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:54:46.576 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:55:34.765 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:56:10.514 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:56:50.215 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:57:41.578 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:58:42.332 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 18:59:27.527 [main] Log4j - Local browser has started
+[INFO ] 2019-01-18 19:00:03.139 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 11:13:31.783 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 12:00:47.083 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 12:02:06.366 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 12:04:56.014 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 12:05:56.552 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 12:06:55.755 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 12:08:32.976 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 12:09:23.349 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 12:55:11.653 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 13:42:38.150 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 13:44:16.864 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 13:47:12.273 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 13:48:57.549 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 13:49:55.530 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 14:02:24.248 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 15:25:29.752 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 15:55:46.374 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 15:58:29.083 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 16:03:09.467 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 16:07:40.957 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 16:09:06.630 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 16:13:24.352 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 16:16:05.781 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 16:17:57.485 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:03:18.794 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:04:56.775 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:29:04.556 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:33:56.870 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:35:54.727 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:40:39.572 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:41:54.364 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:43:06.376 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:44:21.553 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:49:46.571 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 17:57:52.725 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:00:27.912 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:02:20.948 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:03:31.985 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:04:35.336 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:05:52.724 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:09:05.044 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:14:27.859 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:22:38.673 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:25:51.718 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:45:08.245 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:53:48.392 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:56:01.073 [main] Log4j - Local browser has started
+[INFO ] 2019-01-19 18:57:11.318 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 10:14:05.352 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 10:24:30.638 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 12:27:40.159 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 12:40:07.262 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 12:46:47.030 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 12:50:22.659 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 12:53:10.941 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 12:55:48.383 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 13:18:12.060 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 13:19:34.175 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 13:21:37.164 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 13:23:52.468 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 13:30:29.987 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 13:32:31.951 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 13:36:04.620 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 13:47:44.998 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 13:51:09.990 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 13:54:30.088 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 16:26:09.900 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 16:27:35.078 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 16:28:59.706 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 16:47:09.264 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 16:55:18.989 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 17:40:54.840 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 17:46:34.494 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 18:09:42.584 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 18:20:40.835 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 18:23:16.673 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 18:29:37.425 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 18:37:22.278 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 18:46:11.402 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 18:49:05.184 [main] Log4j - Local browser has started
+[INFO ] 2019-01-21 18:52:33.494 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 10:04:57.869 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 10:08:27.503 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 10:23:49.759 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 10:30:30.045 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 10:40:05.208 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 11:02:42.709 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 11:05:03.141 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 11:29:50.208 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 11:32:36.346 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 12:08:01.870 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 12:12:44.776 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 12:17:21.469 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 12:21:25.483 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 12:23:51.877 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 12:33:05.059 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 12:49:02.289 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 12:49:32.774 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 12:51:59.417 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 12:57:57.771 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 13:01:07.457 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 13:25:06.163 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 13:28:20.159 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 13:33:20.990 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 13:48:10.118 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 13:53:03.297 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 13:57:41.693 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 14:02:09.196 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 15:02:52.559 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 15:05:36.165 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 15:07:13.129 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 15:09:43.802 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 15:11:19.077 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 15:48:51.354 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 15:50:44.998 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 16:00:40.412 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 16:12:54.612 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 16:17:08.010 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 16:50:28.858 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 16:56:46.468 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 17:03:39.484 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 17:06:19.395 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 17:10:36.166 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 17:52:14.848 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 17:53:33.730 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 17:54:36.100 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 17:57:42.380 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:01:11.391 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:14:01.221 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:15:27.994 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:17:53.569 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:19:19.682 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:30:24.186 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:31:37.597 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:34:10.901 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:39:40.192 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:41:36.846 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:46:59.962 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:48:27.751 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:52:49.106 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:56:31.344 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 18:59:12.409 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 19:01:13.610 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 19:45:40.178 [main] Log4j - Local browser has started
+[INFO ] 2019-01-24 19:47:42.818 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 10:52:27.978 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 10:56:59.393 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 10:58:15.848 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 11:02:47.722 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:17:04.644 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:31:14.229 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:34:07.627 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:36:36.025 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:39:36.866 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:43:17.703 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:47:07.564 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:51:01.646 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:52:38.235 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:55:35.555 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 12:57:59.771 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 13:00:24.224 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 13:02:28.559 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 13:05:14.258 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 13:09:12.680 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 13:11:10.500 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 13:49:54.854 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 13:55:25.931 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 14:01:14.045 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 14:03:29.106 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 14:07:02.262 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 14:10:06.111 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 15:25:41.774 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 15:28:29.372 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 15:31:00.496 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 15:33:40.047 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 15:35:21.586 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 15:38:19.835 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 15:45:35.467 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 16:30:49.468 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 16:34:06.404 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 16:35:41.494 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 16:37:19.137 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 16:43:35.106 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 16:52:13.072 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 16:58:03.994 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 17:02:05.401 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 17:05:18.899 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 17:16:31.659 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 17:22:51.414 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 17:25:29.997 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 17:29:46.802 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 17:37:51.024 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 17:41:05.174 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 17:51:30.842 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 17:57:41.633 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 18:02:09.943 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 18:05:26.426 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 18:10:41.081 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 18:40:42.839 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 18:43:41.883 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 18:48:00.979 [main] Log4j - Local browser has started
+[INFO ] 2019-01-25 19:30:19.418 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 10:06:27.333 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 10:25:19.846 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 10:34:36.423 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 10:38:24.810 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 10:39:25.086 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 10:40:28.968 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 10:46:49.030 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 10:48:06.850 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 10:50:44.716 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 10:53:19.263 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 11:20:54.032 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 11:21:43.563 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 11:31:01.138 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 11:33:46.100 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 11:36:12.084 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 11:49:28.722 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 11:53:16.373 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 12:13:25.073 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 12:16:46.642 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 12:44:22.635 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 12:46:00.940 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 12:48:49.568 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 12:53:19.079 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 12:55:28.776 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 12:58:23.997 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 13:00:20.602 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 13:07:17.518 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 13:08:56.931 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 13:13:45.288 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 13:14:33.024 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 13:59:48.598 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 14:01:19.571 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 14:03:46.680 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 14:50:44.517 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 14:54:47.278 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 15:00:48.882 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 15:08:44.939 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 15:14:11.200 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 15:17:36.411 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 15:30:34.805 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 15:51:45.590 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 15:53:47.820 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 15:56:43.035 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 15:59:38.859 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 16:25:23.704 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 16:26:48.959 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 16:29:48.545 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 16:32:37.291 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 16:34:42.540 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 16:37:03.622 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 16:41:48.644 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 16:46:06.030 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 16:48:23.429 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 16:50:48.377 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 17:19:47.228 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 17:23:03.594 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 17:27:41.593 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 17:29:56.200 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 18:15:29.736 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 18:18:54.783 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 18:32:30.732 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 18:35:42.435 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 18:37:56.231 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 18:39:51.223 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 18:50:44.766 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 18:53:42.739 [main] Log4j - Local browser has started
+[INFO ] 2019-01-28 18:55:37.123 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 10:15:58.334 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 10:21:22.762 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 10:41:49.222 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 10:43:59.222 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 10:53:05.381 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 11:13:48.851 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 11:19:47.755 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 11:26:02.235 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 11:30:02.502 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 11:35:22.954 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 11:38:37.635 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 11:57:13.551 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 14:01:25.715 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 14:04:18.973 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 15:08:03.840 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 15:25:32.789 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 16:12:07.787 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 16:16:10.107 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-29 16:16:10.384 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-29 16:28:33.857 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 16:39:05.263 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 16:42:40.604 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 16:43:26.904 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-29 16:43:29.178 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-29 16:53:53.183 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 16:54:35.040 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-29 16:54:37.357 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-29 16:59:09.165 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 16:59:54.483 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-29 16:59:56.775 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-29 17:21:59.051 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 17:30:25.622 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 17:58:51.709 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 17:59:06.959 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 18:00:18.083 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-29 18:00:59.043 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-29 18:01:09.795 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-01-29 18:07:43.103 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 18:07:56.599 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 18:12:21.649 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 18:12:35.038 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 18:14:45.157 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 18:15:00.293 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 18:21:20.626 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 18:21:33.746 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 18:22:19.373 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-01-29 18:24:47.637 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 18:25:02.400 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 18:28:16.263 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 18:28:31.326 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 18:29:43.497 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-29 18:31:38.004 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 18:31:52.286 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 18:33:05.411 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-29 18:33:46.361 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-29 18:33:57.571 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-01-29 18:36:02.542 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-01-29 18:36:05.142 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-01-29 18:36:07.381 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-01-29 18:42:02.388 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 18:42:16.910 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 19:07:14.125 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 19:07:29.734 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 19:12:16.448 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 19:12:31.835 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-29 19:14:34.063 [main] Log4j - Local browser has started
+[INFO ] 2019-01-29 19:14:47.316 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 10:25:11.819 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 10:25:25.337 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 10:26:16.979 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 10:26:30.045 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 10:27:39.063 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 10:27:55.046 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:11:30.872 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:11:44.525 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:19:05.331 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:19:19.117 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:23:31.693 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:23:44.740 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:25:14.639 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:25:30.011 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:27:15.257 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:27:31.301 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:32:08.240 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:32:24.968 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:35:16.989 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:35:30.423 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:37:19.672 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:37:33.425 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:40:53.035 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:41:09.115 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:43:42.499 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:43:58.821 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:48:05.148 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:48:21.241 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 11:59:39.402 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 11:59:53.218 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:02:56.621 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:03:10.050 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:07:00.052 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:07:13.541 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:14:12.098 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:14:26.324 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:18:12.396 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:18:28.255 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:20:14.675 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:20:28.770 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:21:21.061 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:21:35.767 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:23:08.404 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:23:23.824 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:25:37.053 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:25:54.011 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:30:05.281 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:30:20.960 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:33:30.028 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:33:43.398 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:35:22.540 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:35:37.773 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 12:38:54.688 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 12:39:08.434 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 15:08:31.193 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 15:08:45.577 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 15:09:55.718 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 15:10:08.966 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 15:11:21.602 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-30 15:12:07.868 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-30 15:12:25.742 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-01-30 15:14:23.095 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-01-30 15:14:26.104 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-01-30 15:14:29.324 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-01-30 15:50:37.303 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 15:50:54.139 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 15:53:05.292 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 15:53:18.849 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 15:54:51.512 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 15:55:04.704 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:03:09.491 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:03:23.610 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:04:26.534 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:04:41.651 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:06:01.831 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:06:20.111 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:10:11.592 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:10:26.372 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:11:55.688 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:12:12.180 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:14:17.962 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:14:31.883 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:18:27.735 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:18:41.525 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:33:56.330 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:34:10.834 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:35:01.529 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:35:15.620 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:36:28.460 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:36:43.393 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:38:02.054 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:38:16.371 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:55:33.919 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:55:49.573 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 16:56:38.419 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 16:56:52.548 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:31:05.532 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:31:18.705 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:32:38.710 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:32:54.283 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:34:14.949 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:34:29.760 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:40:30.462 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:40:44.520 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:41:53.474 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:42:09.548 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:44:31.901 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:44:44.937 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:45:53.691 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:46:07.720 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:48:27.209 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:48:42.256 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:50:55.080 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:51:11.108 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:53:38.301 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:53:55.121 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 17:57:12.213 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:58:12.950 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 17:58:27.148 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 18:10:18.137 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 18:10:31.745 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 18:10:59.342 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-30 18:10:59.475 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-30 18:11:57.303 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 18:12:11.696 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 18:12:41.463 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-30 18:12:42.591 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-30 18:16:36.170 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 18:16:50.086 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 18:17:24.567 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-30 18:17:25.780 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-30 18:18:26.958 [main] Log4j - Local browser has started
+[INFO ] 2019-01-30 18:18:40.247 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-30 18:21:58.431 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 10:08:37.183 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 10:08:54.181 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 10:10:09.191 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-31 10:10:53.429 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-31 10:11:06.290 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-01-31 10:13:01.427 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-01-31 10:13:04.191 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-01-31 10:13:06.554 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-01-31 10:16:00.543 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-31 10:16:01.677 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-31 10:48:58.806 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 10:49:13.686 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 10:50:37.716 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 10:50:53.288 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 10:51:27.898 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 10:51:42.332 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:00:07.428 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:00:23.574 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:02:33.496 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:02:48.985 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:11:39.799 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:11:55.099 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:13:51.583 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:14:05.265 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:15:47.924 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:16:00.956 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:17:40.808 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:17:56.078 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:29:27.131 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:29:42.562 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:32:10.557 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:32:23.732 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:34:35.691 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:34:51.355 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:37:19.882 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:37:33.454 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:39:39.364 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:39:54.639 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:41:40.836 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:41:56.482 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:45:43.245 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:45:57.209 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 11:48:56.281 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 11:49:09.492 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 12:08:45.700 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 12:09:00.882 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 12:11:14.444 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 12:11:29.380 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 12:16:31.884 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 12:16:50.826 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 12:18:29.537 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 12:18:43.761 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 12:21:48.618 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 12:22:05.453 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:02:05.087 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:02:20.502 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:09:27.342 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:09:44.016 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:12:37.344 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:12:50.407 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:14:16.584 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:14:30.867 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:16:16.275 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:16:29.917 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:27:24.994 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:27:40.884 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:32:48.496 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:33:03.584 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:34:30.632 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:34:44.148 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:35:49.506 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:36:02.583 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:38:20.474 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:38:34.078 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:39:58.191 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:40:15.186 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:45:29.159 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:45:43.135 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:48:17.505 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:48:34.917 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:53:16.231 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:53:31.813 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 13:56:50.331 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 13:57:03.910 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 14:00:30.890 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 14:00:47.359 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 14:04:33.891 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 14:04:47.344 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 14:06:06.400 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 14:06:22.395 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 14:07:41.425 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 14:07:55.426 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 14:30:27.334 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 14:30:41.997 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 14:31:53.830 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-31 14:32:33.567 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-31 14:32:45.264 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-01-31 14:34:41.693 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-01-31 14:34:44.281 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-01-31 14:34:46.833 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-01-31 14:37:45.495 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-31 14:37:46.651 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-31 15:40:31.674 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 15:40:47.381 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 15:44:03.723 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 15:44:17.100 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 15:50:36.746 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 15:50:49.707 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 15:53:40.591 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 15:53:56.006 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 15:55:41.940 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 15:55:55.607 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 15:57:33.402 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 15:57:47.860 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 16:00:43.134 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 16:00:57.552 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 16:25:20.677 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 16:25:34.578 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 16:27:00.366 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 16:27:17.285 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 16:28:30.986 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 16:28:44.479 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 16:39:27.214 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 16:39:40.955 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 16:44:00.729 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 16:44:17.083 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 16:46:38.006 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 16:46:55.733 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 16:59:35.099 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 16:59:50.258 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 17:01:26.071 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 17:01:39.938 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 17:03:40.867 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 17:03:59.008 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 17:15:38.796 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 17:15:54.494 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 17:17:18.822 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 17:17:33.562 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 17:52:49.206 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 17:53:05.259 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 17:54:08.052 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 17:54:26.139 [main] Log4j - Login sucessfully
+[INFO ] 2019-01-31 17:55:17.854 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 17:57:50.848 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 17:59:35.339 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 18:02:19.473 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 18:03:16.775 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 18:24:51.406 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 18:27:42.631 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 18:30:25.098 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 18:35:45.224 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 18:37:01.682 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-31 18:47:39.586 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 18:48:57.137 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-31 18:50:00.797 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 18:51:28.175 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-31 18:52:10.103 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-01-31 18:52:20.736 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-01-31 18:54:24.811 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-01-31 18:54:27.883 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-01-31 18:54:30.012 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-01-31 18:56:06.923 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 18:59:20.515 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-31 18:59:21.680 [main] Log4j - checkbox has been selected
+[INFO ] 2019-01-31 19:00:46.497 [main] Log4j - Local browser has started
+[INFO ] 2019-01-31 19:06:15.427 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 10:24:08.476 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 10:26:29.838 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-01 10:34:19.146 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 10:36:35.737 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-01 11:11:26.553 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 11:15:28.943 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 11:17:45.355 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-01 11:17:52.094 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-01 11:21:10.404 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 11:23:29.885 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-01 11:23:36.657 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-01 11:23:43.344 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-02-01 11:23:45.123 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-02-01 11:44:55.304 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 11:46:11.736 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 11:56:33.083 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 12:01:20.563 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 12:04:19.665 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-01 12:24:32.514 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 12:37:07.820 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 12:44:14.605 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 12:52:05.813 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:03:55.777 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:16:55.521 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:18:47.896 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:22:55.097 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:24:33.159 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:28:13.446 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:29:32.274 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:35:26.988 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:39:37.523 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:44:26.457 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:48:11.069 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:50:03.162 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:53:25.275 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 13:55:59.015 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 15:50:20.501 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 15:59:05.986 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 16:01:05.390 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 16:07:31.541 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 16:12:31.868 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 16:20:28.150 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 16:25:28.070 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 16:32:36.346 [main] Log4j - Local browser has started
+[INFO ] 2019-02-01 16:40:17.008 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 10:11:25.973 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 10:29:24.732 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 10:57:13.106 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 11:00:15.030 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 12:22:23.450 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 12:26:05.435 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 12:34:17.085 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 12:38:21.713 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 12:41:06.026 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 12:56:48.342 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 12:57:40.063 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 12:58:37.908 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:00:08.228 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:02:19.684 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:02:54.688 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:05:18.728 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:06:33.478 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:13:34.522 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:13:57.313 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:16:34.012 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-04 13:17:15.738 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-04 13:17:26.349 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-02-04 13:19:43.524 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 13:19:50.221 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-04 13:19:56.158 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-02-04 13:19:57.874 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-02-04 13:22:21.418 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 13:39:45.761 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:41:38.273 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:44:15.780 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 13:45:14.538 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 13:45:15.679 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 13:47:35.883 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 13:49:24.421 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-04 13:50:05.190 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-04 13:50:15.846 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-02-04 13:52:32.206 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 13:52:39.015 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-04 13:52:43.986 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-02-04 13:52:45.673 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-02-04 13:59:05.024 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 14:02:46.369 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 14:02:47.508 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 14:04:06.012 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 14:04:31.634 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 14:07:15.329 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-04 14:07:57.741 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-04 14:08:08.605 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-02-04 14:10:33.581 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-04 14:10:38.547 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-02-04 14:10:40.367 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-02-04 14:16:36.767 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 14:16:37.910 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 15:18:30.952 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 15:19:38.583 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 15:21:51.371 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-04 15:22:32.346 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-04 15:22:42.923 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-02-04 15:25:09.847 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-04 15:25:15.798 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-02-04 15:25:18.059 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-02-04 15:28:43.846 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 15:28:44.967 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 15:36:28.552 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 15:39:06.521 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-04 15:39:13.295 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-04 15:39:21.012 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-02-04 15:39:22.254 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-02-04 17:38:47.965 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 17:40:56.632 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 17:44:25.060 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 17:46:09.097 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 17:47:38.212 [main] Log4j - Local browser has started
+[INFO ] 2019-02-04 17:50:11.870 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 10:07:28.157 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 10:09:41.325 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-05 10:10:23.898 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-05 10:10:34.382 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-02-05 10:12:55.381 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-05 10:13:00.550 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-02-05 10:13:02.058 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-02-05 10:16:28.158 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 10:16:29.264 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 10:52:31.317 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 11:04:06.903 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 11:07:11.443 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 11:07:27.252 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-02-05 11:07:28.530 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-02-05 12:18:52.376 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:21:16.444 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:28:13.975 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:30:52.292 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:33:08.849 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:33:34.642 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:34:23.504 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:34:48.838 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:36:25.798 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:42:02.894 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:44:17.564 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:48:02.432 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:49:17.645 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:51:45.719 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 12:53:28.537 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 13:10:39.229 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 13:11:02.308 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 13:11:05.625 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 13:11:06.776 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 13:12:38.167 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 13:14:46.741 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 13:22:34.142 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 13:40:42.061 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 13:41:08.548 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 13:47:21.786 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 13:47:48.021 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 13:56:03.397 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 13:56:30.401 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 13:56:30.767 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 13:56:31.013 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 13:58:06.141 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 13:58:36.028 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 13:59:48.434 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 14:00:20.484 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 14:00:50.920 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 14:04:44.661 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-05 14:06:10.163 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-02-05 14:06:38.993 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-02-05 14:10:14.526 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-02-05 14:10:20.614 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-02-05 14:10:25.000 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-02-05 14:17:37.877 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 14:17:39.009 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 14:59:54.258 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 15:00:21.970 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 15:02:55.410 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 15:03:20.446 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 15:19:45.567 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 15:20:11.533 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 15:21:22.798 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 15:21:48.682 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 15:23:21.292 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 15:23:47.724 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 15:25:27.241 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 15:25:51.511 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 15:52:09.787 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 15:52:41.546 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 15:54:27.337 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 15:54:57.794 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 15:58:12.050 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 15:58:38.877 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 15:58:51.320 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 16:00:57.399 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 16:03:27.968 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 16:06:23.483 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 16:23:46.070 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 16:27:22.146 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 16:27:54.899 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 16:30:38.662 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 16:31:14.506 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 16:42:56.338 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 17:46:14.980 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 17:46:43.579 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 17:54:26.519 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 17:57:02.832 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 17:57:03.047 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-05 17:58:15.100 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 17:59:24.731 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-05 17:59:24.975 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-05 18:01:11.817 [main] Log4j - Local browser has started
+[INFO ] 2019-02-05 18:02:27.908 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-06 11:30:10.938 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 11:31:25.233 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 11:35:00.549 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-06 11:35:06.017 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-06 11:45:19.068 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 11:46:38.380 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 11:48:15.742 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 11:49:01.688 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 11:51:13.529 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 11:52:21.812 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 11:53:17.987 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 11:56:47.443 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 11:58:31.832 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-06 11:59:57.792 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 12:05:50.890 [main] Log4j - checkbox has been selected
+[INFO ] 2019-02-06 12:06:05.512 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-06 12:09:17.358 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:23:34.768 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:25:15.162 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:26:03.770 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:26:45.389 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:29:43.081 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:30:39.463 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:33:14.524 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:34:58.147 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:39:55.513 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:43:45.502 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:45:30.762 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:47:51.328 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:50:38.716 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:51:52.878 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:54:47.026 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 15:57:52.620 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:03:36.519 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:06:18.559 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:13:20.945 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:14:50.037 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:20:48.241 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:21:33.988 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:24:11.342 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:24:58.565 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:27:09.791 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:28:04.194 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:51:06.006 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:51:33.072 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:54:36.219 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:55:45.646 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 16:57:03.538 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-06 16:57:06.813 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-06 17:13:47.418 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:14:16.496 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:17:32.915 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:18:25.311 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:19:44.415 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-06 17:19:48.023 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-06 17:25:53.680 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:27:04.661 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:30:03.390 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:30:57.237 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:32:35.953 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-06 17:32:39.289 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-02-06 17:37:48.590 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:38:18.368 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:44:28.886 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:44:58.479 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:47:51.945 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:48:17.746 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:51:37.666 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:52:06.418 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:54:54.519 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:55:24.557 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 17:59:47.515 [main] Log4j - Local browser has started
+[INFO ] 2019-02-06 18:00:38.894 [main] Log4j - Local browser has started
+[INFO ] 2019-02-27 11:17:25.702 [main] Log4j - Local browser has started
+[INFO ] 2019-03-01 16:42:21.040 [main] Log4j - Local browser has started
+[INFO ] 2019-03-19 17:48:22.414 [main] Log4j - Local browser has started
+[INFO ] 2019-03-19 18:08:29.711 [main] Log4j - Local browser has started
+[INFO ] 2019-03-19 18:09:22.241 [main] Log4j - Local browser has started
+[INFO ] 2019-03-19 18:15:51.239 [main] Log4j - Local browser has started
+[INFO ] 2019-03-19 18:15:57.536 [main] Log4j - Local browser has started
+[INFO ] 2019-03-19 18:16:03.675 [main] Log4j - Local browser has started
+[INFO ] 2019-03-19 18:18:51.422 [main] Log4j - Local browser has started
+[INFO ] 2019-03-19 18:22:52.720 [main] Log4j - Local browser has started
+[INFO ] 2019-03-30 17:49:19.449 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 11:44:20.825 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 11:47:49.345 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 11:50:33.382 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 12:00:50.944 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:04:22.989 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:05:33.293 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:14:22.226 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:15:41.550 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 12:26:05.464 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:27:25.328 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:31:01.483 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:32:20.129 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 12:33:30.767 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:38:44.652 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:40:08.758 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 12:42:17.599 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:43:43.775 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:46:43.819 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:48:06.304 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 12:53:45.633 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:56:49.160 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 12:59:20.379 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:02:11.010 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:04:06.338 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:05:27.177 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 13:08:24.461 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:09:37.747 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 13:12:06.333 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:14:21.055 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:15:34.684 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 13:20:34.856 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:24:47.120 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:29:33.900 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:30:55.689 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 13:34:32.992 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:36:00.470 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 13:38:21.717 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:39:44.503 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 13:40:25.472 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 13:40:36.750 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-17 13:47:08.484 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:54:35.141 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:58:23.097 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 13:59:43.504 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 14:00:24.222 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 14:00:36.436 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-17 14:02:21.228 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 14:02:23.511 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 14:02:34.549 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-17 14:02:40.792 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-17 14:04:29.123 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 14:06:10.761 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 14:06:49.920 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 14:07:03.214 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-17 14:26:01.260 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 14:27:41.642 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 14:28:24.178 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 14:28:35.422 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-17 14:31:43.343 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 14:33:11.045 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 14:33:50.800 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 14:34:01.334 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-17 14:35:39.358 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 14:35:41.647 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 14:35:52.696 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-17 14:35:57.483 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-17 14:35:58.695 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-17 14:37:59.886 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 14:40:01.525 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 14:42:44.880 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 14:45:00.241 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 14:46:07.740 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 14:48:08.765 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 14:48:11.110 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 14:49:15.607 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 14:49:16.701 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 14:50:56.100 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 14:57:47.211 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 14:59:38.791 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 15:00:24.952 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 15:00:35.499 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-17 15:02:14.959 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:02:17.249 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:02:28.251 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-17 15:02:32.766 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-17 15:02:33.764 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-17 15:04:14.032 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:04:16.282 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:05:21.323 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:05:22.442 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:08:04.896 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:09:59.429 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:10:01.722 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:11:08.748 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:11:09.894 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:15:21.784 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:20:37.623 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:22:19.077 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 15:22:59.003 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 15:23:09.739 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-17 15:27:08.038 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:27:29.469 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:30:34.412 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:33:42.732 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:38:31.823 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:39:16.553 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:39:20.859 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:39:31.460 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:39:47.912 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-17 15:39:48.680 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-17 15:40:36.617 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:43:10.758 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:43:15.112 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:43:25.735 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 15:43:45.583 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-17 15:43:46.296 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-17 15:44:36.470 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:49:53.151 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:55:58.003 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 15:59:25.091 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:01:52.438 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:03:50.464 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:06:14.817 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:08:15.439 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:12:33.601 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:16:15.588 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:18:16.299 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:18:20.744 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:18:31.374 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:20:36.152 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:20:40.506 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:20:51.143 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:28:28.305 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:33:17.780 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:35:15.614 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:36:56.810 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 16:37:41.721 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 16:37:52.479 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-17 16:39:29.407 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:39:33.696 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:39:48.824 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-17 16:39:53.589 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-17 16:39:54.594 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-17 16:41:36.450 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:41:40.677 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:42:53.117 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:42:54.259 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 16:48:15.988 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:48:38.470 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:49:02.111 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:52:04.031 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:52:26.477 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:57:19.139 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:57:41.008 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 16:58:03.963 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 17:00:15.316 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 17:01:09.803 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 17:01:31.524 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 17:01:56.295 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 17:03:38.706 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 17:04:19.858 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-17 17:04:30.570 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-17 17:06:10.178 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 17:06:14.539 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 17:06:29.743 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-17 17:06:34.464 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-17 17:06:35.470 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-17 17:08:17.728 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 17:08:22.056 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 17:09:33.550 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 17:09:34.692 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 17:56:30.057 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 17:59:08.092 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:01:56.957 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:12:31.475 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:13:30.544 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:16:00.737 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:18:22.468 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:21:07.140 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:22:53.986 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 18:22:58.303 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-17 18:23:13.387 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-17 18:23:18.137 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-17 18:23:19.156 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-17 18:29:38.901 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:32:30.857 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:36:30.640 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:37:34.412 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:42:08.132 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:47:36.056 [main] Log4j - Local browser has started
+[INFO ] 2019-04-17 18:54:58.919 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:44:55.453 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:50:16.424 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:50:42.493 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:51:25.854 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:54:28.093 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:54:54.102 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:55:37.634 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:56:01.922 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:56:43.531 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:57:48.934 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 10:59:35.550 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:01:29.873 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:02:10.619 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:02:48.275 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:03:12.292 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:06:10.243 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:09:21.227 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:10:54.995 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:11:31.725 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:12:01.601 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:12:50.343 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:13:27.258 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:13:56.841 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:14:16.261 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:15:15.794 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:21:30.634 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:23:56.395 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:26:44.991 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:28:49.350 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:39:05.448 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:42:16.622 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:43:55.380 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:47:48.823 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:49:57.431 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:51:57.843 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:55:54.751 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:57:30.231 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:57:58.812 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 11:58:37.001 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:03:54.552 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:13:58.349 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:16:25.800 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:19:29.003 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:21:08.392 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:23:57.859 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:35:50.987 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:38:51.464 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:40:02.182 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:40:38.207 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:41:10.261 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:43:05.266 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:43:43.727 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:47:57.914 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:48:35.807 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:53:51.842 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:55:51.099 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:56:48.942 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 12:59:15.799 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:02:03.005 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:02:43.765 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:04:15.732 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:05:58.545 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:08:17.873 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:08:45.593 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:11:00.676 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:11:31.119 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:13:39.285 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:14:13.561 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:15:48.516 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:16:22.143 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:36:26.406 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:38:18.276 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:43:45.779 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 13:47:37.713 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 15:18:48.970 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 15:19:55.319 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 15:22:55.962 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 15:24:23.624 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 15:26:20.529 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 15:31:45.213 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 15:33:27.269 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 15:46:01.182 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 16:07:17.327 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 16:23:29.886 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 16:38:46.944 [main] Log4j - Local browser has started
+[INFO ] 2019-04-18 18:53:47.665 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 11:47:20.458 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 12:16:49.315 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 12:30:55.146 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 12:49:06.599 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 12:51:51.071 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 12:55:22.991 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 12:58:24.213 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 13:03:12.295 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 13:06:16.398 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 13:10:15.779 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 13:27:19.878 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 13:29:36.708 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 13:40:48.698 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 13:43:06.417 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 13:45:44.481 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 13:52:13.156 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 15:36:13.998 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 15:39:29.726 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 15:41:58.619 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 15:43:33.887 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 16:12:33.970 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 16:41:11.643 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 16:48:26.139 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 16:51:07.939 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 17:03:40.279 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 17:26:08.634 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 17:51:05.100 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 17:52:40.232 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 17:57:50.937 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:04:54.244 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:09:53.492 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:13:28.906 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:14:52.732 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:21:15.776 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:24:50.206 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:29:03.345 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:38:21.439 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:41:08.875 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:43:15.891 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:45:56.090 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 18:52:06.753 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:02:37.886 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:04:34.655 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:06:18.874 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:09:55.161 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:10:02.647 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:11:30.394 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:12:15.691 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:12:40.086 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:13:14.978 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:13:47.911 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:14:27.476 [main] Log4j - Local browser has started
+[INFO ] 2019-04-19 19:15:07.636 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 11:27:23.428 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 11:29:07.933 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 11:40:47.687 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 11:42:30.901 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 11:46:14.139 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 11:47:55.438 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 11:49:37.089 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 11:51:18.379 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 12:14:23.941 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 12:21:50.849 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 12:26:11.899 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 12:28:29.192 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 12:31:15.607 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 12:33:24.668 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 12:41:19.132 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 12:52:19.373 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:01:27.632 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:04:51.781 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:08:37.240 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:13:15.709 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:14:35.714 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:16:52.019 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:19:55.311 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:20:59.959 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:23:50.705 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:33:14.505 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:51:44.844 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 13:55:43.166 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 14:00:49.402 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 14:03:09.804 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 14:03:14.096 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 14:03:29.269 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-22 14:03:38.945 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-22 14:03:40.537 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-22 15:32:02.475 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 15:53:17.197 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 15:55:01.268 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 15:57:46.058 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-22 15:57:53.576 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-22 15:57:55.149 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-22 16:28:34.870 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 16:30:31.189 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 16:32:09.608 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 16:33:40.687 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 18:20:34.070 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 18:32:24.393 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 18:39:10.683 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 18:39:43.751 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:39:43.851 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:43:23.947 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 18:44:12.667 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:44:27.107 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:44:40.799 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:44:55.251 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:45:09.883 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:45:24.815 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:45:24.958 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:45:25.092 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:45:25.286 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:45:25.399 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:45:26.496 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:45:27.609 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:45:28.729 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:45:29.852 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:47:32.007 [main] Log4j - Local browser has started
+[INFO ] 2019-04-22 18:49:35.411 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:49:35.528 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:49:35.653 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:49:35.766 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:49:35.861 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:49:50.051 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:50:05.001 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:50:20.999 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:50:36.151 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:50:50.422 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:51:04.990 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:51:05.089 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:51:05.205 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:51:05.338 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:51:05.456 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-22 18:51:18.703 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:51:19.806 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:51:20.910 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-22 18:51:22.039 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-04-24 10:44:30.779 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 10:47:04.459 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-24 10:47:12.399 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-24 10:47:13.892 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-24 10:49:20.596 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 10:51:24.198 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 10:54:41.163 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 10:57:07.401 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 10:59:41.243 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-24 10:59:45.770 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-24 10:59:46.947 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-24 11:31:54.709 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 11:34:45.722 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 11:39:51.800 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 11:42:59.160 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 11:46:07.079 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 11:48:40.806 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 11:52:02.982 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 11:55:01.390 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 11:56:37.185 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:08:36.804 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:13:41.929 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:16:13.934 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:19:34.943 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:22:10.617 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:34:32.476 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:37:44.854 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:40:13.977 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:43:31.985 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:47:08.661 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:52:35.901 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 12:59:21.118 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 13:01:31.488 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 13:04:22.416 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 13:05:36.861 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 13:09:00.752 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 13:10:16.178 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 13:11:29.633 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 13:24:23.427 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 13:27:35.875 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 13:46:00.443 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 13:48:16.190 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 14:04:50.029 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 14:21:44.868 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 14:24:24.054 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-24 14:24:30.718 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-24 14:24:32.808 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-24 15:06:39.365 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 15:16:17.836 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 15:22:30.284 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 15:28:10.951 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 15:45:11.369 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 15:57:30.727 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 15:59:05.569 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 16:31:23.256 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 16:46:25.270 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 16:54:01.164 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 16:56:50.213 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 17:00:36.432 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 17:03:42.008 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 17:31:02.196 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 17:36:28.869 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 17:38:00.186 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 17:40:03.094 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 17:42:16.577 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 17:44:36.651 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 18:06:39.102 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 18:08:09.918 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 18:09:49.887 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 18:12:32.899 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 18:16:40.139 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 18:18:33.388 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 18:20:48.591 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 18:28:25.274 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 18:39:35.264 [main] Log4j - Local browser has started
+[INFO ] 2019-04-24 18:49:28.544 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:09:03.347 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:15:41.153 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:16:58.424 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:19:31.239 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:22:43.231 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:35:19.524 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:36:16.889 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:40:31.571 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:42:07.926 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:44:22.645 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 10:50:45.714 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 11:09:36.105 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 11:11:26.011 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 11:14:06.462 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 11:28:48.232 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 11:57:54.483 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:13:56.373 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:16:05.324 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:18:17.094 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:19:38.875 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:23:22.093 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:30:00.823 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:31:05.399 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:32:23.600 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:41:45.964 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:44:57.540 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:49:41.003 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 12:51:09.156 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 13:11:40.795 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 13:36:28.790 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 13:39:03.119 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 13:50:46.640 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 13:53:09.739 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 13:59:49.905 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 14:02:06.632 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 14:35:15.577 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 14:37:32.858 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:08:47.912 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:11:00.837 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:14:22.732 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:22:49.765 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:23:18.475 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:26:51.477 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:28:07.524 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:49:02.465 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:50:18.489 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:51:36.600 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:52:50.144 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:56:30.764 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:56:42.392 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:57:51.054 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 15:58:47.344 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 16:01:33.582 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-25 16:01:38.739 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-25 16:01:40.801 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-25 16:05:50.602 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 16:07:33.404 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 16:10:55.159 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 16:12:41.989 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-25 16:13:26.080 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-25 16:13:37.172 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-25 16:15:44.147 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-25 16:15:49.235 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-25 16:15:50.747 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-25 16:19:04.940 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 16:19:06.078 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 16:22:10.824 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 16:24:29.800 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 16:26:05.227 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-25 16:27:05.035 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 16:31:24.168 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 16:31:25.305 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 16:40:53.359 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 16:44:49.309 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 16:44:50.440 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 16:52:46.483 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 16:57:07.638 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 16:57:08.789 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 17:00:11.526 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 17:02:23.903 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-25 17:03:08.618 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-04-25 17:03:24.962 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-04-25 17:05:53.508 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-25 17:05:59.118 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-25 17:06:00.856 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-25 17:09:16.711 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 17:09:17.841 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 17:31:33.833 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 17:34:12.263 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 17:34:26.850 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-25 17:34:28.018 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-25 17:35:13.325 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 17:38:04.986 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-25 17:41:15.774 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 17:46:10.665 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 17:57:49.324 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 18:05:42.437 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 18:12:06.975 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 18:19:08.072 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 18:30:24.120 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 18:35:25.735 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 18:38:45.528 [main] Log4j - Local browser has started
+[INFO ] 2019-04-25 18:45:05.372 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 16:18:51.182 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 16:23:08.657 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 16:30:08.847 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 16:32:20.057 [main] Log4j - checkbox has been selected
+[INFO ] 2019-04-26 16:32:26.537 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-26 16:32:30.960 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-26 16:32:33.654 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-26 16:43:52.196 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 16:46:11.298 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-26 16:46:15.982 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-26 16:46:18.979 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-26 16:48:22.329 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 16:56:16.383 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 16:59:10.685 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 17:00:39.425 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 17:02:37.991 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 17:03:59.657 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 17:05:43.059 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 17:15:34.344 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 17:17:51.483 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 17:20:09.454 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-26 17:20:13.878 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-26 17:20:16.991 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-26 17:22:19.154 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-04-26 17:22:23.918 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-04-26 17:22:27.343 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-04-26 17:42:55.913 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 17:44:14.069 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 17:54:48.740 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 18:15:51.455 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 18:23:24.749 [main] Log4j - Local browser has started
+[INFO ] 2019-04-26 18:27:43.814 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 10:11:39.364 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 10:51:09.460 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 10:53:08.118 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 11:08:01.266 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 11:09:50.948 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 11:11:51.480 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 11:14:06.564 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 11:15:42.715 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 11:30:53.943 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 11:32:52.031 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 12:24:39.835 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 12:33:04.015 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 12:51:23.162 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 13:06:17.300 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 13:13:51.705 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 13:35:05.788 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 13:45:43.459 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 16:09:30.260 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 16:49:30.962 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 16:50:55.608 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 16:58:06.152 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 17:04:19.016 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 17:08:30.287 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 17:19:20.338 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 17:24:42.832 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 17:28:12.213 [main] Log4j - Local browser has started
+[INFO ] 2019-04-27 17:48:49.255 [main] Log4j - Local browser has started
+[INFO ] 2019-04-29 09:57:52.550 [main] Log4j - Local browser has started
+[INFO ] 2019-04-29 10:12:12.811 [main] Log4j - Local browser has started
+[INFO ] 2019-04-29 10:22:59.678 [main] Log4j - Local browser has started
+[INFO ] 2019-04-29 10:24:55.899 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 14:38:07.356 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 14:39:39.854 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 14:41:51.794 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 14:44:20.706 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 14:48:21.559 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 14:49:47.716 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 14:52:09.193 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 14:53:15.468 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 14:55:39.880 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 15:07:32.752 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 15:10:02.827 [main] Log4j - Local browser has started
+[INFO ] 2019-05-11 15:17:09.268 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 09:37:12.016 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 09:43:59.288 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 09:47:31.148 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 09:51:10.401 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 09:55:21.727 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 09:57:47.116 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 10:13:25.837 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 10:14:26.394 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 10:18:19.686 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 10:19:58.167 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 10:39:44.601 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 11:15:55.173 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 11:18:06.211 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 11:20:42.737 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 11:22:56.873 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 11:27:33.494 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 11:30:46.483 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 11:32:13.035 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 11:34:30.316 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 11:53:55.265 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 12:05:18.924 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 12:20:46.697 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 12:27:11.883 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 12:54:39.402 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 12:58:26.684 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 13:03:36.288 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:02:50.022 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:11:37.403 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:13:16.065 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:23:06.568 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:26:09.322 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:29:25.952 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:35:31.585 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:42:25.422 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:44:14.768 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:47:19.307 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 14:49:47.691 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 15:01:20.332 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 15:04:39.887 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 15:21:32.462 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 15:24:18.577 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 15:31:50.539 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 15:34:15.996 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 15:36:30.441 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 15:39:13.237 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 15:46:04.528 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 15:50:31.601 [main] Log4j - Local browser has started
+[INFO ] 2019-05-13 16:06:20.968 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 10:17:17.948 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 10:41:32.629 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 10:54:41.614 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 10:55:14.276 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 10:55:46.122 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:00:02.904 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:00:34.737 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:01:54.879 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:07:27.409 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:07:59.213 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:09:15.113 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:09:48.503 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:20:04.847 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:20:38.700 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:24:09.970 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 11:25:55.610 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 12:08:56.331 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 12:09:35.038 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-14 12:12:34.079 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 12:13:16.289 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-14 12:18:53.690 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 12:19:32.677 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-14 12:21:08.325 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 12:21:48.573 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-14 12:30:05.230 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 12:30:44.072 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-14 12:33:16.918 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 12:33:56.225 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-14 12:41:48.346 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 12:42:28.970 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-14 12:47:15.745 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 12:47:54.719 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-14 16:17:07.995 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 16:18:07.940 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 16:19:37.369 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 16:21:34.085 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 16:22:14.316 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-14 16:22:54.247 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 16:43:09.941 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 16:44:56.184 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 16:46:35.378 [main] Log4j - Local browser has started
+[INFO ] 2019-05-14 16:47:13.631 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-14 16:47:54.013 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 09:23:23.894 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 09:25:13.254 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 09:26:52.788 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 09:27:32.251 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-15 09:28:13.645 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 09:43:31.118 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 09:44:04.039 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 09:44:37.362 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 09:58:02.451 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 09:58:34.858 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 10:11:32.279 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 10:26:25.944 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 10:52:27.296 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 10:56:48.981 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 11:00:27.129 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 11:03:45.330 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 12:04:14.040 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 12:21:24.463 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 13:01:04.156 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 13:03:11.390 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 13:12:58.725 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 14:00:42.465 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 14:23:56.803 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 14:26:20.876 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 14:34:01.131 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 14:38:36.334 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 14:47:29.431 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 14:50:28.481 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 14:51:11.192 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-15 14:55:22.047 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 14:56:06.950 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-15 14:57:27.544 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 14:58:07.958 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-15 14:59:39.205 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 15:00:23.804 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-15 15:03:29.269 [main] Log4j - Local browser has started
+[INFO ] 2019-05-15 15:04:08.676 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-15 15:06:45.120 [main] Log4j - Local browser has started
+[INFO ] 2019-05-20 10:13:01.535 [main] Log4j - Local browser has started
+[INFO ] 2019-05-20 10:46:20.025 [main] Log4j - Local browser has started
+[INFO ] 2019-05-21 11:51:25.208 [main] Log4j - Local browser has started
+[INFO ] 2019-05-21 16:41:51.097 [main] Log4j - Local browser has started
+[INFO ] 2019-05-21 16:48:17.656 [main] Log4j - Local browser has started
+[INFO ] 2019-05-21 16:50:18.400 [main] Log4j - Local browser has started
+[INFO ] 2019-05-21 16:52:09.910 [main] Log4j - Local browser has started
+[INFO ] 2019-05-21 17:14:30.185 [main] Log4j - Local browser has started
+[INFO ] 2019-05-21 17:16:18.638 [main] Log4j - Local browser has started
+[INFO ] 2019-05-21 17:31:35.180 [main] Log4j - Local browser has started
