@@ -41,21 +41,22 @@ public class BaseClass {
 	
 	@DataProvider(name = "inputData")
 	public Object[][] loginData() {
-		Object[][] arrayObject = getExcelData("D:\\DrlineAutomation\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "login");
+		Object[][] arrayObject = getExcelData("C:\\Users\\Admin\\git\\TestProject\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "login");
+		//Object[][] arrayObject = getExcelData("D:\\inputData1.xlsx", "login");
 		return arrayObject;
 	}
 	
 	@DataProvider(name = "Register")
 	public Object[][] loginDatadf() {
 		Object[][] arrayObject = getExcelData(
-				"D:\\DrlineAutomation\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "Register");
+				"C:\\Users\\Admin\\git\\TestProject\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "Register");
 		return arrayObject;
 	}
 	
 	@DataProvider(name = "CompleteRegister")
 	public Object[][] CompleteRegister() {
 		Object[][] arrayObject = getExcelData(
-				"D:\\DrlineAutomation\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "CompleteRegister");
+				"C:\\Users\\Admin\\git\\TestProject\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "CompleteRegister");
 		return arrayObject;
 	}
 
@@ -63,40 +64,40 @@ public class BaseClass {
 	@DataProvider(name = "Dashboard")
 	public Object[][] Dashboard() {
 		Object[][] arrayObject = getExcelData(
-				"D:\\DrlineAutomation\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "Dashboard");
+				"C:\\Users\\Admin\\git\\TestProject\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "Dashboard");
 		return arrayObject;
 	}
 
 	@DataProvider(name = "Appointment")
 	public Object[][] Appointment() {
 		Object[][] arrayObject = getExcelData(
-				"D:\\DrlineAutomation\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "Appointment");
+				"C:\\Users\\Admin\\git\\TestProject\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "Appointment");
 		return arrayObject;
 	}
 	@DataProvider(name = "HappyFlow")
 	public Object[][] HappyFlow() {
 		Object[][] arrayObject = getExcelData(
-				"D:\\DrlineAutomation\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "HappyFlow");
+				"C:\\Users\\Admin\\git\\TestProject\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "HappyFlow");
 		return arrayObject;
 	}
 	@DataProvider(name = "Transaction")
 	public Object[][] Transaction() {
 		Object[][] arrayObject = getExcelData(
-				"D:\\DrlineAutomation\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "Transaction");
+				"C:\\Users\\Admin\\git\\TestProject\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "Transaction");
 		return arrayObject;
 	}
 	
 	@DataProvider(name = "AddEmployee")
 	public Object[][] AddEmployee() {
 		Object[][] arrayObject = getExcelData(
-				"D:\\DrlineAutomation\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "AddEmployee");
+				"C:\\Users\\Admin\\git\\TestProject\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "AddEmployee");
 		return arrayObject;
 	}
 	
 	@DataProvider(name = "Inventory")
 	public Object[][] Inventory() {
 		Object[][] arrayObject = getExcelData(
-				"D:\\DrlineAutomation\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "Inventory");
+				"C:\\Users\\Admin\\git\\TestProject\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "Inventory");
 		return arrayObject;
 	}
 	
@@ -105,7 +106,7 @@ public class BaseClass {
 	@DataProvider(name = "AddPatient")
 	public Object[][] AddPatient() {
 		Object[][] arrayObject = getExcelData(
-				"D:\\DrlineAutomation\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "AddPatient");
+				"C:\\Users\\Admin\\git\\TestProject\\Drline\\src\\main\\java\\com\\data\\inputData.xlsx", "AddPatient");
 		return arrayObject;
 	}
 	

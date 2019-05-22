@@ -5,7 +5,7 @@
     <classes>
       <class name="NoticeTest.NoticetTest">
         <methods>
-          <include name="Login" invocation-numbers="0"/>
+          <include name="Login"/>
           <include name="addAndverifyNoticeAndCancel"/>
           <include name="DeleteNotice"/>
           <include name="updateNotice"/>
