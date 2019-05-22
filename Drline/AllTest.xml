@@ -177,11 +177,17 @@
 	</test>
 		 	
 
-	<test name="DashBoard">
- 			<classes>
- 								<class name="DashBoard.BookApointmentFromDashboard"/>	
- 			</classes>
-	</test> 	
+
+
+
+
+
+
+
+
+
+
+	
 		 	
 	<test name="Register">
  			<classes>
@@ -226,5 +232,11 @@
  							<class name="Register.SMSSettingRegisterPage"/>	
  			</classes>
 	</test>
+	
+	<test name="DashBoard">
+ 			<classes>
+ 								<class name="DashBoard.BookApointmentFromDashboard"/>	
+ 			</classes>
+	</test> 
 
 </suite>

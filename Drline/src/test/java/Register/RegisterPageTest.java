@@ -18,10 +18,14 @@ public class RegisterPageTest extends BaseClass {
 	RegisterPage objRegisterPage = new RegisterPage();
 	
 	
-	@BeforeClass
-	public void setup() throws InterruptedException 
-	{
-	objBaseClass.LocalBrowserInit("http://qa.drline.in/drline-webapp-qa/");
+
+	static String strv="";
+	@Test(priority = -11, dataProvider ="inputData")
+	public void Login(String url,String Mob,String Pass ) throws InterruptedException 
+		{
+	
+	
+	objBaseClass.LocalBrowserInit(url);
 	}
 	
 	@Test(priority=1)

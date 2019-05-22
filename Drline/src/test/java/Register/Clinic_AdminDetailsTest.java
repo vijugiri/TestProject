@@ -14,6 +14,8 @@ public class Clinic_AdminDetailsTest extends BaseClass {
 	RegisterpageView objRegisterpageView= new RegisterpageView();
 	RegisterPage objRegisterPage = new RegisterPage();
 	
+	static String  strv="";
+	
 	/*
 	@BeforeClass
 	public void SetupBrowser() throws InterruptedException 
@@ -23,12 +25,17 @@ public class Clinic_AdminDetailsTest extends BaseClass {
 */
 	
 
-	
+	@Test(priority = -11, dataProvider ="inputData")
+	public void Login(String url,String Mob,String Pass ) throws InterruptedException 
+		{
+		strv=url;
+				
+			}
 
 	@Test(priority = 10, dataProvider ="Register")
 	public void Register(String ClinicName, String DummyFName,String Firstname,String Lastname,String EmailId,String WrongLastname,String WrongEmailId, String WrongMobileNo,String MobileNo ,String State,String Dist,String City,String Address) throws InterruptedException {
 	
-		objBaseClass.LocalBrowserInit("http://qa.drline.in/drline-webapp-qa/");
+		objBaseClass.LocalBrowserInit(strv);
 		objRegisterpageView.clickRegisterlinkHeaderpage();
 		objRegisterpageView.RegisterClinic(ClinicName, Firstname, Lastname, EmailId, MobileNo);
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);	
@@ -46,7 +53,7 @@ public class Clinic_AdminDetailsTest extends BaseClass {
 	public void componentClinic_AdminDetailsStep_1_isDisplayed(String ClinicName, String DummyFName,String Firstname,String Lastname,String EmailId,String WrongLastname,String WrongEmailId, String WrongMobileNo,String MobileNo ,String State,String Dist,String City,String Address) throws InterruptedException
 	{
 		
-		objBaseClass.LocalBrowserInit("http://qa.drline.in/drline-webapp-qa/");
+		objBaseClass.LocalBrowserInit(strv);
 		objRegisterpageView.clickRegisterlinkHeaderpage();
 		objRegisterpageView.RegisterClinic(ClinicName, Firstname, Lastname, EmailId, MobileNo);
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);	
@@ -97,7 +104,7 @@ public class Clinic_AdminDetailsTest extends BaseClass {
 	public void validationClinic_AdminDetailsStep_1_isDisplayed(String ClinicName, String DummyFName,String Firstname,String Lastname,String EmailId,String WrongLastname,String WrongEmailId, String WrongMobileNo,String MobileNo ,String State,String Dist,String City,String Address) throws InterruptedException
 	{
 		
-		objBaseClass.LocalBrowserInit("http://qa.drline.in/drline-webapp-qa/");
+		objBaseClass.LocalBrowserInit(strv);
 		objRegisterpageView.clickRegisterlinkHeaderpage();
 		objRegisterpageView.RegisterClinic(ClinicName, Firstname, Lastname, EmailId, MobileNo);
 		
@@ -131,7 +138,7 @@ public class Clinic_AdminDetailsTest extends BaseClass {
 	public void componentClinic_AdminDetailsStep_2_isDisplayed(String ClinicName, String DummyFName,String Firstname,String Lastname,String EmailId,String WrongLastname,String WrongEmailId, String WrongMobileNo,String MobileNo ,String State,String Dist,String City,String Address) throws InterruptedException
 	{
 		
-		objBaseClass.LocalBrowserInit("http://qa.drline.in/drline-webapp-qa/");
+		objBaseClass.LocalBrowserInit(strv);
 		objRegisterpageView.clickRegisterlinkHeaderpage();
 		objRegisterpageView.RegisterClinic(ClinicName, Firstname, Lastname, EmailId, MobileNo);
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);

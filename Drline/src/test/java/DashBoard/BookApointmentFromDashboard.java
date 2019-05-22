@@ -23,20 +23,23 @@ public class BookApointmentFromDashboard extends BaseClass{
 	String strval4=null;
 
 	
-	
+	/*
 	private String url="http://qa.drline.in/drline-webapp-qa/";
 	private String Mob="9511711822";
-	private String Pass="12345";
+	private String Pass="12345";*/
 		
 	
 		
 		//@Test(priority = 1, dataProvider ="inputData")
 	
-	@BeforeClass
-	public void Login() throws InterruptedException 
-			{	objBaseClass.LocalBrowserInit(url);
-				objLoginPageView.Login(Mob,Pass);
-				objLoginPageView.YesPopup();
+	//@BeforeClass
+	
+	@Test(priority = -11, dataProvider ="inputData")
+	public void Login(String url,String Mob,String Pass ) throws InterruptedException 
+		{
+	objBaseClass.LocalBrowserInit(url);	
+	objLoginPageView.Login(Mob,Pass);
+	objLoginPageView.YesPopup();
 				
 			}
 	

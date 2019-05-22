@@ -16,10 +16,17 @@ public class RegisterPaymentmode extends BaseClass {
 
 
 
+	
+	static String strv="";
+	@Test(priority = -11, dataProvider ="inputData")
+	public void Login(String url,String Mob,String Pass ) throws InterruptedException 
+		{
+		strv=url;
+		}
 	@Test(priority = 1, dataProvider ="CompleteRegister")
 	public void componentsDisplayedonRegisterPaymentmodepage(String ClinicName, String Firstname,String Lastname,String EmailId,String MobileNo ,String State,String Dist,String City,String Address,String ClinicType,String Referance) throws InterruptedException {
 	Thread.sleep(2000);
-		objBaseClass.LocalBrowserInit("http://qa.drline.in/drline-webapp-qa/");
+		objBaseClass.LocalBrowserInit(strv);
 		objRegisterpageView.clickRegisterlinkHeaderpage();
 		objRegisterpageView.RegisterClinic(ClinicName, Firstname, Lastname, EmailId, MobileNo);
 		Thread.sleep(2000);		
@@ -69,7 +76,7 @@ public class RegisterPaymentmode extends BaseClass {
 	@Test(priority = 2, dataProvider ="CompleteRegister")
 	public void PREVButtonFunctionality(String ClinicName, String Firstname,String Lastname,String EmailId,String MobileNo ,String State,String Dist,String City,String Address,String ClinicType,String Referance) throws InterruptedException {
 	Thread.sleep(2000);
-		objBaseClass.LocalBrowserInit("http://qa.drline.in/drline-webapp-qa/");
+		objBaseClass.LocalBrowserInit(strv);
 		objRegisterpageView.clickRegisterlinkHeaderpage();
 		objRegisterpageView.RegisterClinic(ClinicName, Firstname, Lastname, EmailId, MobileNo);
 		Thread.sleep(2000);		
