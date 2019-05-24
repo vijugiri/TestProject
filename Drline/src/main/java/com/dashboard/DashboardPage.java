@@ -205,9 +205,10 @@ objBaseClass.click("//li[@id='Notice Board']");
 
 public void clickSettingMenuis(){
 	
-	
-	objBaseClass.scrollToView("//*[@id='sidebar']/ul/li[9]");
-objBaseClass.click("//*[@id='sidebar']/ul/li[9]");
+	//JavascriptExecutor js= (JavascriptExecutor) driver;
+	//js.executeScript("javascript:window.scrollBy(79.84,19)");
+	objBaseClass.scrollToView("/html/body/div[4]/div[1]/nav/ul/li[9]/a");
+objBaseClass.mouseHover("/html/body/div[4]/div[1]/nav/ul/li[9]/a");
 
 }
 

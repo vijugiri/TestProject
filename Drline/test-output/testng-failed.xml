@@ -3,16 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="DashBoard.BookApointmentFromDashboard">
+      <class name="Setting.AddPatientSetting">
         <methods>
-          <include name="SelectDateToBooKAppointment"/>
-          <include name="ComponentDosplayedonBookedPopUP"/>
-          <include name="VerifyDetailsFromBooKedAppointment"/>
-          <include name="canceledBooKedAppointment"/>
-          <include name="Login"/>
-          <include name="Login"/>
+          <include name="AddPatientSetting"/>
         </methods>
-      </class> <!-- DashBoard.BookApointmentFromDashboard -->
+      </class> <!-- Setting.AddPatientSetting -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

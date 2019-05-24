@@ -365,9 +365,9 @@ public void verifypatientdisease(String Disease) throws InterruptedException {
 		this.clickInvestigationreport();
 		this.setInvestigationreportName();
 		//this.clickChooseInvestigationreport();
+		
 		Thread.sleep(2000);
 		driver.findElement(By.xpath("//input[@id='upload-file-input']")).sendKeys("D:\\DrlineAutomation\\Drline\\TestData\\file.jpeg");
-		
 		objBaseClass.clickUsingJavaScripter("//button[@id='reportButton']");
 		Thread.sleep(3000);
 		

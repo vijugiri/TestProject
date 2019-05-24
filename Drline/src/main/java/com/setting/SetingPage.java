@@ -1,5 +1,7 @@
 package com.setting;
 
+import org.openqa.selenium.JavascriptExecutor;
+
 import com.login.LoginPage;
 import com.main.BaseClass;
 
@@ -12,6 +14,7 @@ public class SetingPage extends BaseClass {
 	String strval=null;
 	String strval3=null;
 	String strval4=null;
+	
 	String strval2=null;
 
 	
@@ -83,8 +86,14 @@ public void selectOwnProperties() {
 	
 	
 
-	public void clickAddPatientSetting() 
+	public void clickAddPatientSetting() throws InterruptedException 
 	{
+		
+		JavascriptExecutor js= (JavascriptExecutor) driver;
+		js.executeScript("javascript:window.scrollBy(159.72,19)");
+Thread.sleep(2000);
+		
+objBaseClass.scrollToView("//span[contains(text(),'Add Patient Setting')]");
 	objBaseClass.mouseHover("//span[contains(text(),'Add Patient Setting')]");
 	}
 	

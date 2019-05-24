@@ -25,6 +25,13 @@
  			</classes>
 	</test>
 
+
+	<test name="Shopping">
+ 			<classes>
+ 							<class name="Shopping.ShoppingTest"/>	
+ 			</classes>
+	</test>
+
  	 <test name="Noticeboard">
  			<classes>
  							<class name="NoticeTest.NoticetTest"/>	
@@ -130,7 +137,12 @@
  			</classes>
 	</test>	 	
 
-		 	
+	 <test name="AddPatientSetting">
+ 			<classes>
+ 								<class name="Setting.AddPatientSetting"/>	
+ 			</classes>
+	</test>	 
+
 	<test name="DashBoard3">
  			<classes>
  								<class name="DashBoard.Notification"/>	
@@ -177,18 +189,13 @@
 	</test>
 
 		 	
-	<test name="Register">
+	<!-- <test name="Register">
  			<classes>
  								<class name="Register.Clinic_AdminDetailsTest"/>	
  			</classes>
 	</test>
 		 	
-		 	
-	<test name="Register1">
- 			<classes>
- 								<class name="Register.CompleteRegisterClinic"/>	
- 			</classes>
-	</test>
+	
 		 	
 	<test name="Register2">
  			<classes>
@@ -220,11 +227,18 @@
  							<class name="Register.SMSSettingRegisterPage"/>	
  			</classes>
 	</test>
+
+		 	
+	<test name="Register1">
+ 			<classes>
+ 								<class name="Register.CompleteRegisterClinic"/>	
+ 			</classes>
+	</test>
 	
 	<test name="DashBoard">
  			<classes>
  								<class name="DashBoard.BookApointmentFromDashboard"/>	
  			</classes>
-	</test> 
+	</test>   -->
 
 </suite>

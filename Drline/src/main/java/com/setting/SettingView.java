@@ -7,6 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 
 import com.appointment.AddpatientPage;
 import com.appointment.AddpatientView;
@@ -361,6 +362,69 @@ public void closeokPopup() throws InterruptedException
 				objBaseClass.mouseHover("//li[@id='Drawer Setting']");
 				
 			}
+			
+			
+		
+			
+			public void selectEmp() {
+				
+				
+					Select drpCountry = new Select(driver.findElement(By.xpath("//select[@id='employeeId']")));
+					drpCountry.selectByIndex(1);
+			}
+			
+			public void selecNotechkbox() throws InterruptedException {
+				Thread.sleep(2000);
+				objBaseClass.selectCheckbox("//input[@id='isEnabled_99']");
+			}
+			
+			public void unselecNotechkbox() throws InterruptedException {
+				Thread.sleep(2000);
+				objBaseClass.unSelectCheckbox("//input[@id='isEnabled_99']");
+			}
+			
+			
+			public void clivkOnSave() throws InterruptedException {
+				objBaseClass.mouseHover("//button[contains(text(),'Save')]");
+				
+				
+				Thread.sleep(1000);
+				objBaseClass.refresh();
+			}
+			
+			
+			
+			public void NoteIsDisplayed() throws InterruptedException {
+				Thread.sleep(1000);
+				JavascriptExecutor js= (JavascriptExecutor) driver;
+				js.executeScript("javascript:window.scrollBy(225.47,33.91)");
+				
+				Thread.sleep(2000);
+				objBaseClass.isdisplayed("//label[contains(text(),'Note')]");
+			}
+			
+			
+			public void NoteisnotDisplayed() throws InterruptedException {
+				Thread.sleep(2000);
+				JavascriptExecutor js= (JavascriptExecutor) driver;
+				js.executeScript("javascript:window.scrollBy(225.47,33.91)");
+			
+				Thread.sleep(2000);
+			
+				WebElement elem= driver.findElement(By.xpath("//label[contains(text(),'Note')]"));
+				if(!elem.isDisplayed()){
+				System.out.println("element is disabled");
+				}
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			
 			
 			
