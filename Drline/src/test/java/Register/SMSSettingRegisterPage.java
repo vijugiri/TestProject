@@ -21,7 +21,7 @@ public class SMSSettingRegisterPage extends BaseClass{
 		strv=url;
 		}
 
-	@Test(priority = 1, dataProvider ="CompleteRegister")
+	@Test(priority = 9, dataProvider ="CompleteRegister")
 	public void SMSSettingRegisterComponentDisplayed(String ClinicName,String Firstname,String Lastname,String EmailId,String MobileNo ,String State,String Dist,String City,String Address,String ClinicType,String Referance) throws InterruptedException {
 		Thread.sleep(2000);
 		objBaseClass.LocalBrowserInit(strv);
@@ -78,9 +78,9 @@ public class SMSSettingRegisterPage extends BaseClass{
 		
 	}
 
-		
 	
-	@Test(priority = 2, dataProvider ="CompleteRegister")
+	
+	@Test(priority = 6, dataProvider ="CompleteRegister")
 	public void OperationInSMSSettingRegister(String ClinicName,String Firstname,String Lastname,String EmailId,String MobileNo ,String State,String Dist,String City,String Address,String ClinicType,String Referance) throws InterruptedException {
 		Thread.sleep(2000);
 		objBaseClass.LocalBrowserInit(strv);
@@ -153,7 +153,6 @@ public class SMSSettingRegisterPage extends BaseClass{
 		objRegisterpageView.SetSMSQTY("1000");
 		objRegisterpageView.ClickNextButtononSMSSettingpage();
 		objRegisterpageView.ClinicDetailsConfirmDetailPage(ClinicName, Firstname, Lastname, EmailId, MobileNo);	
-		objRegisterpageView.BillingInoviceClinicDetailsConfirmDetailPag();	
 		objRegisterpageView.LicenceModeClinicDetailsConfirmDetailPag();		
 		objRegisterpageView.ClickPREVButtonOnSMSSettingpage();
 		objRegisterpageView.hdrSMSSettingRegisterisDisplayed();

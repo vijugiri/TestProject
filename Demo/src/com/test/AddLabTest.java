@@ -32,12 +32,12 @@ public class AddLabTest extends Base {
 	@BeforeClass
 	public void login() throws InterruptedException {
 		
-		objBaseClass.LocalBrowserInit("http://lab.drline.in/lab-webapp/");
+		objBaseClass.LocalBrowserInit("http://qa.drline.in/drline-webapp-qa/");
 		// user id
-		objBaseClass.setText("//input[@id='userName']", "9890654149");
+		objBaseClass.setText("//input[@id='userName']", "8999100336");
 		
 		// pass
-		objBaseClass.setText("//input[@id='password']", "6332730");
+		objBaseClass.setText("//input[@id='password']", "12345");
 		// login button
 		Thread.sleep(2000);
 		objBaseClass.click("//button[@type='submit']");

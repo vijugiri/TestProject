@@ -30,8 +30,7 @@ public class Clinic_AdminDetailsTest extends BaseClass {
 		{
 		strv=url;
 				
-			}
-
+		}
 	@Test(priority = 10, dataProvider ="Register")
 	public void Register(String ClinicName, String DummyFName,String Firstname,String Lastname,String EmailId,String WrongLastname,String WrongEmailId, String WrongMobileNo,String MobileNo ,String State,String Dist,String City,String Address) throws InterruptedException {
 	
@@ -96,7 +95,7 @@ public class Clinic_AdminDetailsTest extends BaseClass {
 		
 	}
 	
-	
+
 	
 	
 	
@@ -124,7 +123,6 @@ public class Clinic_AdminDetailsTest extends BaseClass {
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 		objRegisterpageView.verifyWithoutFirstnameOnStep1();
 		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
-		objRegisterpageView.verifyWithoutContactNumberOnStep1();
 		driver.close();
 		
 	}
@@ -166,8 +164,7 @@ public class Clinic_AdminDetailsTest extends BaseClass {
 	
 	}
 	
-	
-	
+
 	
 	
 	

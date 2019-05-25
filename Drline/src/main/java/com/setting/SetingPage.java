@@ -133,6 +133,16 @@ objBaseClass.scrollToView("//span[contains(text(),'Add Patient Setting')]");
 		
 
 
+		public void clickAddEmailSetting() throws InterruptedException 
+		{
+			
+			JavascriptExecutor js= (JavascriptExecutor) driver;
+			js.executeScript("javascript:window.scrollBy(155.55,19)");
+	Thread.sleep(2000);
+			
+	objBaseClass.scrollToView("//span[contains(text(),'Clinic Email Setting')]");
+		objBaseClass.mouseHover("//span[contains(text(),'Clinic Email Setting')]");
+		}
 		
 		
 		
@@ -140,5 +150,13 @@ objBaseClass.scrollToView("//span[contains(text(),'Add Patient Setting')]");
 		
 		
 		
+		
+		
+		
+		
+		public void verifyEmailheader() {
+			objBaseClass.isdisplayed("//h4[contains(text(),'Email Id Detail')]");
+		}
+			
 		
 }

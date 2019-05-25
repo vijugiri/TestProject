@@ -1,5 +1,7 @@
 package Setting;
 
+import java.util.concurrent.TimeUnit;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.AfterClass;
@@ -61,7 +63,8 @@ public class AddPatientSetting   extends BaseClass {
 		@Test(priority = 2)
 		public void AddPatientSetting()throws InterruptedException		{
 			objDashboardPage.clickDashboardMenu();
-		
+			objAppointmentView.clickAppointmentMenu();
+			objDashboardPage.clickDashboardMenu();
 			objSettingView.clickSettingMenu();
 			objSetingPage.clickAddPatientSetting();
 			objSettingView.selectEmp();
@@ -85,16 +88,82 @@ public class AddPatientSetting   extends BaseClass {
 
 }
 		
-		@Test(priority = 3)
+		@Test(priority = 11)
 		public void close() {
 			driver.close();
 		}
 		
 		
+	
+		@Test(priority = 3)
+		public void emailSetting()throws InterruptedException		{
+			objDashboardPage.clickDashboardMenu();
+			objAppointmentView.clickAppointmentMenu();
+			objDashboardPage.clickDashboardMenu();
+			objSettingView.clickSettingMenu();
+			objSetingPage.clickAddEmailSetting();
+			objSetingPage.verifyEmailheader();	
+			objSettingView.setClinicEmailId("drline.care@gmail.com");		
+			objSettingView.setClinicEmailIdPassword("DrLine@12345");	
+			objSettingView.setClinicEmailIdPort("587");	
+			objSettingView.setClinicEmailIdprovider("Gmail");	
+			objSettingView.clickUpdateButtonEmailSett();
+			objSettingView.verifyEmailSettingUpdate();
+			objDashboardPage.clickDashboardMenu();
+			
+		}
+		
+
+		
+		@Test(priority = 4)
+			public void TreatmentPropertiesSettingPDFSIGN() throws InterruptedException
+			{
+				
+				objDashboardView.clickDashboardMenu();
+				objSettingView.clickSettingMenu();
+				driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+				objSettingView.clickOnTreatmentProp();
+				objSettingView.deselectPdfSign();
+				objSettingView.selectPdfSign();
+				objSettingView.verifyPdfSignlSetting();
+				objDashboardView.clickDashboardMenu();
+				
+			
+				
+				
+			}
+	
+		@Test(priority = 5)
+			public void TreatmentPropertiesSettingFollowup() throws InterruptedException
+			{
+				
+				objDashboardView.clickDashboardMenu();
+				objSettingView.clickSettingMenu();
+				driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+				objSettingView.clickOnTreatmentProp();
+				objSettingView.deselectFolloup();
+				objSettingView.selectFolloup();
+				objSettingView.verifyPdfSignlSetting();
+				objDashboardView.clickDashboardMenu();
+				
+			
+				
+				
+			}
 		
 		
-		
-		
+		@Test(priority = 6)
+		public void BdaySMSsetting() throws InterruptedException
+		{
+			
+			objDashboardView.clickDashboardMenu();
+			objSettingView.clickSettingMenu();
+			objSettingView.clickOnBdaySMS();
+			objSettingView.deselectSMSBirthday();
+			objSettingView.selectSMSBirthday();
+			objSettingView.verifySMSBirthday();
+			objDashboardView.clickDashboardMenu();
+		}
 		
 		
 		

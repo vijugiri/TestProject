@@ -143,6 +143,12 @@
  			</classes>
 	</test>	 
 
+	 <test name="Setting">
+ 			<classes>
+ 								<class name="Setting.MyProfile"/>	
+ 			</classes>
+	</test>	 
+	
 	<test name="DashBoard3">
  			<classes>
  								<class name="DashBoard.Notification"/>	
@@ -154,8 +160,7 @@
  								<class name="loginTest.CompleteLogin"/>	
  			</classes>
 	</test>
-		 	
-		 	
+ 	
 	<test name="loginTest1">
  			<classes>
  								<class name="loginTest.LoginTest"/>	
@@ -167,8 +172,7 @@
  								<class name="Master.AddNewEmployeeTest"/>	
  			</classes>
 	</test>
-		 	
-		 	
+ 	
 	<test name="Master1">
  			<classes>
  								<class name="Master.AddnewRole"/>	
@@ -188,26 +192,21 @@
  			</classes>
 	</test>
 
-		 	
-	<!-- <test name="Register">
+	 	
+	<test name="Register">
  			<classes>
  								<class name="Register.Clinic_AdminDetailsTest"/>	
  			</classes>
 	</test>
 		 	
-	
-		 	
+	 	
 	<test name="Register2">
  			<classes>
  								<class name="Register.ModuleSectionAndBilling"/>	
  			</classes>
 	</test>
-		 	
-	<test name="Register3">
- 			<classes>
- 								<class name="Register.PaymentRegister"/>	
- 			</classes>
-	</test>
+
+
 		 	
 	<test name="Register4">
  			<classes>
@@ -215,30 +214,48 @@
  			</classes>
 	</test>
 
+
+
 	<test name="Register5">
  			<classes>
  								<class name="Register.RegisterPaymentmode"/>	
  			</classes>
 	</test>
-	 
-	 
+ 
 	<test name="Register6">
  			<classes>
  							<class name="Register.SMSSettingRegisterPage"/>	
  			</classes>
 	</test>
 
-		 	
+	
+	
+	<test name="DashBoard">
+ 			<classes>
+ 								<class name="DashBoard.BookApointmentFromDashboard"/>	
+ 			</classes>
+	</test>  
+	
+	
+	
+	
+	
+	 
+	 
+
+	 	 	
 	<test name="Register1">
  			<classes>
  								<class name="Register.CompleteRegisterClinic"/>	
  			</classes>
 	</test>
 	
-	<test name="DashBoard">
+	
+		 	
+	<test name="Register3">
  			<classes>
- 								<class name="DashBoard.BookApointmentFromDashboard"/>	
+ 								<class name="Register.PaymentRegister"/>	
  			</classes>
-	</test>   -->
+	</test>
 
 </suite>

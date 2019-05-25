@@ -203,12 +203,13 @@ objBaseClass.click("//li[@id='Notice Board']");
 
 }
 
-public void clickSettingMenuis(){
+public void clickSettingMenuis() throws InterruptedException{
 	
 	//JavascriptExecutor js= (JavascriptExecutor) driver;
 	//js.executeScript("javascript:window.scrollBy(79.84,19)");
-	objBaseClass.scrollToView("/html/body/div[4]/div[1]/nav/ul/li[9]/a");
-objBaseClass.mouseHover("/html/body/div[4]/div[1]/nav/ul/li[9]/a");
+	objBaseClass.scrollToView("//span[contains(text(),'Setting')]");
+	Thread.sleep(2000);
+objBaseClass.mouseHover("//span[contains(text(),'Setting')]");
 
 }
 

@@ -1,5 +1,7 @@
 package com.setting;
 
+import static org.testng.Assert.assertTrue;
+
 import java.util.concurrent.TimeUnit;
 
 
@@ -419,20 +421,232 @@ public void closeokPopup() throws InterruptedException
 			
 			
 			
+			public void setClinicEmailId(String EmailID) {
+				
+				objBaseClass.ClearText("//input[@id='emailId']");
+				objBaseClass.setText("//input[@id='emailId']", EmailID);
+				
 			
 			
+			}	
 			
 			
+
+			public void setClinicEmailIdPassword(String Pass) {
+				objBaseClass.ClearText("//input[@id='password']");
+				objBaseClass.setText("//input[@id='password']", Pass);
+				
 			
 			
+			}	
+
+			public void setClinicEmailIdprovider(String provider) {
+				objBaseClass.ClearText("//input[@id='provider']");
+				objBaseClass.setText("//input[@id='provider']", provider);
+				
 			
 			
+			}	
+
+			public void setClinicEmailIdPort(String Port) {
+				objBaseClass.ClearText("//input[@id='port']");
+				objBaseClass.setText("//input[@id='port']", Port);
+				
 			
 			
+			}	
 			
 			
+			public void clickUpdateButtonEmailSett() {
+				
+				
+				objBaseClass.mouseHover("//button[contains(text(),'Update')]");
+			}
 			
 			
+		public void verifyEmailSettingUpdate() {
+			strval=objBaseClass.getText("//span[@class='msgClass']");
+			System.out.println(strval);
+			strval2 ="Email setting updated successfull";
+			assertTrue(strval.contains(strval2));
+			
+			///html/body/div[5]/div/div/div[2]/span
+			objBaseClass.refresh();
+		}
+			
+		
+		
+		
+		public void deselectPdfSign() throws InterruptedException {
+			Thread.sleep(1000);
+			objBaseClass.unSelectCheckbox("//*[@id='employeeId']");
+			Thread.sleep(1000);
+			objBaseClass.refresh();
+			Thread.sleep(1000);
+			
+		}
+		
+		
+
+		public void selectPdfSign() throws InterruptedException {
+			Thread.sleep(1000);
+			objBaseClass.selectCheckbox("//*[@id='employeeId']");
+			
+		}
+		
+		
+		
+		
+		public void verifyPdfSignlSetting() throws InterruptedException {
+			Thread.sleep(3000);
+			strval=objBaseClass.getText("//span[@id='successFuladded']");
+			System.out.println(strval);
+			strval2 ="Setting Added Successfully.";
+			assertTrue(strval.contains(strval2));
+			
+			///html/body/div[5]/div/div/div[2]/span
+			objBaseClass.refresh();
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		public void deselectFolloup() throws InterruptedException {
+			Thread.sleep(3000);
+			objBaseClass.unSelectCheckbox("//input[@id='clinicPropertiesId_90']");
+			Thread.sleep(1000);
+			objBaseClass.refresh();
+			Thread.sleep(1000);
+			
+		}
+		
+		
+
+		public void selectFolloup() throws InterruptedException {
+			Thread.sleep(3000);
+			objBaseClass.selectCheckbox("//input[@id='clinicPropertiesId_90']");
+			
+		}
+		
+		
+		
+		
+		
+
+		public void clickOnBdaySMS() throws InterruptedException {
+			objBaseClass.scrollToView("//*[@id='Birthday SMS Setting']/a/span/i");
+			Thread.sleep(2000);
+			WebElement  element=driver.findElement(By.xpath("//*[@id='Birthday SMS Setting']/a/span/i"));   
+			JavascriptExecutor ex=(JavascriptExecutor)driver;
+			  ex.executeScript("arguments[0].click()", element);
+		}
+		
+		
+		
+		
+	
+		
+		
+		public void deselectSMSBirthday() throws InterruptedException {
+			Thread.sleep(3000);
+			objBaseClass.unSelectCheckbox("//input[@id='clinicPropertiesId_22']");
+			Thread.sleep(1000);
+			objBaseClass.refresh();
+			Thread.sleep(1000);
+			
+		}
+		
+		
+
+		public void selectSMSBirthday() throws InterruptedException {
+			Thread.sleep(3000);
+			objBaseClass.selectCheckbox("//input[@id='clinicPropertiesId_22']");
+			
+		}
+		
+		
+
+		public void verifySMSBirthday() throws InterruptedException {
+			Thread.sleep(3000);
+			strval=objBaseClass.getText("//span[@id='successFuladded']");
+			System.out.println(strval);
+			strval2 ="Setting added successfully";
+			assertTrue(strval.contains(strval2));
+			
+			///html/body/div[5]/div/div/div[2]/span
+			objBaseClass.refresh();
+		}
+		
+		
+		
+		
+		public void editMyProfile() throws InterruptedException {
+			
+			objBaseClass.mouseHover("//a[@id='messageDropdown']/small");
+			Thread.sleep(2000);
+			objBaseClass.mouseHover("//h6[contains(text(),'My Profile')]");
+			Thread.sleep(2000);
+			
+		}
+		
+		
+		public void clickonEditprofile() {
+			objBaseClass.mouseHover("//div[@class='pull-right']//a[contains(text(),'Edit')]");
+			
+			
+		}
+		
+		
+		
+
+		public void setAADharNumber(String Aadhar) throws InterruptedException {
+			
+			objBaseClass.ClearText("//input[@id='aadharNo1']");
+			Thread.sleep(2000);
+			objBaseClass.setText("//input[@id='aadharNo1']", Aadhar);
+		}
+		
+		
+		public void clickOnUpdateMyProfile() throws InterruptedException {
+			objBaseClass.mouseHover("//div[@class='col-md-12']//button[contains(text(),'Update')]");
+			Thread.sleep(2000);
+			
+			objBaseClass.refresh();
+		}
+		
+		
+		
+		
+	
+		
+		public void verifyAddhar(String Addhar) throws InterruptedException {
+			Thread.sleep(3000);
+			strval=objBaseClass.getText("//span[@id='aadharNo']");
+			System.out.println(strval);
+		
+			assertTrue(strval.contains(Addhar));
+			
+		
+		
+		}
+	
+		
 			
 }
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
 

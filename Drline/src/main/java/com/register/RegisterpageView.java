@@ -159,7 +159,7 @@ public class RegisterpageView extends BaseClass {
 		strval=	driver.findElement(By.xpath("//span[@id='emailIderr']")).getText();		
 		System.out.println(strval);
 		strval2 ="Enter Valid Email.";
-		Assert.assertEquals("Verified Enter Valid Email. message is displayed", strval2, strval);
+		assertTrue(strval.contains(strval2));
 		objBaseClass.refresh();
 	}
 	
@@ -182,7 +182,7 @@ public class RegisterpageView extends BaseClass {
 		strval=	driver.findElement(By.xpath("//span[@id='contactNoerr']")).getText();		
 		System.out.println(strval);
 		strval2 ="Please Enter Valid Contact Number.";
-		Assert.assertEquals("Verified Please Enter Valid Contact Number. message is displayed", strval2, strval);
+		assertTrue(strval.contains(strval2));
 		objBaseClass.refresh();
 	}
 	
@@ -205,7 +205,7 @@ public class RegisterpageView extends BaseClass {
 		strval=	driver.findElement(By.xpath("//span[@id='lastNameerr']")).getText();		
 		System.out.println(strval);
 		strval2 ="Please Enter Valid Last Name.";
-		Assert.assertEquals("Verified Please Enter Valid Last Name.message is displayed", strval2, strval);
+		assertTrue(strval.contains(strval2));
 		objBaseClass.refresh();
 	}
 	
@@ -227,7 +227,7 @@ public class RegisterpageView extends BaseClass {
 		strval=	driver.findElement(By.xpath("//span[@id='emailIderr']")).getText();		
 		System.out.println(strval);
 		strval2 ="Enter Valid Email.";
-		Assert.assertEquals("Verified Please Enter Valid Email. message is displayed", strval2, strval);
+		assertTrue(strval.contains(strval2));
 		objBaseClass.refresh();
 	}
 	
@@ -251,7 +251,7 @@ public class RegisterpageView extends BaseClass {
 		strval=	driver.findElement(By.xpath("//span[@id='contactNoerr']")).getText();		
 		System.out.println(strval);
 		strval2 ="Please Enter Valid Contact Number.";
-		Assert.assertEquals("Verified Please Enter Valid Contact Number. message is displayed", strval2, strval);
+		assertTrue(strval.contains(strval2));
 		objBaseClass.refresh();
 	}
 	public void RegisterClinic(String Username, String Firstname,String Lastname,String EmailId ,String MobileNo) throws InterruptedException
@@ -332,7 +332,7 @@ public void verifiedClinicName(String ClinicName) throws InterruptedException
 	
 	System.out.println("Clinic name is "+strval);
 	strval2 =ClinicName;
-	Assert.assertEquals("Verified Clinic name is correct", strval2, strval);
+	Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -344,7 +344,7 @@ public void verifiedFirstName(String Firstname) throws InterruptedException
 	
 	System.out.println("First name is "+strval);
 	strval2 =Firstname;
-	Assert.assertEquals("Verified First Name  is correct", strval2, strval);
+	Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -357,7 +357,7 @@ public void verifiedLastName(String Lastname) throws InterruptedException
 	
 	System.out.println("Last name is "+strval);
 	strval2 =Lastname;
-	Assert.assertEquals("Verified  Last name  is correct", strval2, strval);
+	Assert.assertTrue(strval.contains(strval2));
 }
 public void verifiedContact(String MobileNo) throws InterruptedException 
 {
@@ -367,7 +367,7 @@ public void verifiedContact(String MobileNo) throws InterruptedException
 	
 	System.out.println("MobileNo is "+strval);
 	strval2 =MobileNo;
-	Assert.assertEquals("Verified MobileNo  is correct", strval2, strval);
+	Assert.assertTrue(strval.contains(strval2));
 }
 
 public void verifiedemailId(String EmailId) throws InterruptedException 
@@ -378,7 +378,7 @@ public void verifiedemailId(String EmailId) throws InterruptedException
 	
 	System.out.println("emailId is "+strval);
 	strval2 =EmailId;
-	Assert.assertEquals("Verified emailId  is correct", strval2, strval);
+	Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -390,7 +390,7 @@ public void verifiedAddress(String Address) throws InterruptedException
 	
 	System.out.println("address is "+strval);
 	strval2 =Address;
-	Assert.assertEquals("Verified address  is correct", strval2, strval);
+	Assert.assertTrue(strval.contains(strval2));
 }
 	
 
@@ -406,7 +406,7 @@ public void verifiedCity(String City) throws InterruptedException
      strval=sel.getFirstSelectedOption().getText();
 	System.out.println("City is "+strval);
 	strval2 =City;
-	Assert.assertEquals("Verified City  is correct", strval2, strval);
+	Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -421,7 +421,7 @@ public void verifiedDist(String Dist) throws InterruptedException
      strval=sel.getFirstSelectedOption().getText();
 	System.out.println("Dist is "+strval);
 	strval2 =Dist;
-	Assert.assertEquals("Verified Dist  is correct", strval2, strval);
+	Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -437,7 +437,7 @@ public void verifiedState(String State) throws InterruptedException
      strval=sel.getFirstSelectedOption().getText();
 	System.out.println("State is "+strval);
 	strval2 =State;
-	Assert.assertEquals("Verified State  is correct", strval2, strval);
+	Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -446,7 +446,7 @@ public void verifyclinicNameFieldstext() {
 	  strval=driver.findElement(By.xpath("//label[contains(text(),'Clinic Name')]")).getText();
 	  System.out.println("Clinic name is"+ strval);
 	  strval2 ="Clinic Name*";
-		Assert.assertEquals("Verified Clinic Name text is displayedt", strval2, strval);
+	  Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -455,7 +455,7 @@ public void verifyFirstnameNameFieldstext() {
 	  strval=driver.findElement(By.xpath("//label[contains(text(),'First Name')]")).getText();
 	  System.out.println("First name is"+ strval);
 	  strval2 ="First Name*";
-		Assert.assertEquals("Verified First Name text is displayedt", strval2, strval);
+	  Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -464,7 +464,7 @@ public void verifylastNameNameFieldstext() {
 	  strval=driver.findElement(By.xpath("//label[contains(text(),'Last Name')]")).getText();
 	  System.out.println("Last name is"+ strval);
 	  strval2 ="Last Name";
-		Assert.assertEquals("Verified Last Name text is displayedt", strval2, strval);
+	  Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -476,7 +476,7 @@ public void verifyEmailIdFieldstext() {
 	  strval=driver.findElement(By.xpath("//label[contains(text(),'Email Id')]")).getText();
 	  System.out.println("Email is"+ strval);
 	  strval2 ="Email Id";
-		Assert.assertEquals("Verified Email Id text is displayedt", strval2, strval);
+	  Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -485,7 +485,7 @@ public void verifyContactNoFieldstext() {
 	  strval=driver.findElement(By.xpath("//label[contains(text(),'Contact No')]")).getText();
 	  System.out.println("Contact No  is"+ strval);
 	  strval2 ="Contact No*";
-		Assert.assertEquals("Verified Contact No text is displayedt", strval2, strval);
+	  Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -503,7 +503,7 @@ public void verifySDistrictFieldstext() {
 	  strval=driver.findElement(By.xpath("//label[contains(text(),'District')]")).getText();
 	  System.out.println("District  is"+ strval);
 	  strval2 ="District*";
-		Assert.assertEquals("Verified District text is displayedt", strval2, strval);
+	  Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -512,7 +512,7 @@ public void verifyCityFieldstext() {
 	  strval=driver.findElement(By.xpath("//label[contains(text(),'City')]")).getText();
 	  System.out.println("City  is=="+ strval);
 	  strval2 ="City*";
-		Assert.assertEquals("Verified City text is displayedt", strval2, strval);
+	  Assert.assertTrue(strval.contains(strval2));
 }
 
 
@@ -521,7 +521,7 @@ public void verifyAddressFieldstext() {
 	  strval=driver.findElement(By.xpath("//label[contains(text(),'Address')]")).getText();
 	  System.out.println("Address  is"+ strval);
 	  strval2 ="Address*";
-		Assert.assertEquals("Verified Address text is displayedt", strval2, strval);
+	  Assert.assertTrue(strval.contains(strval2));
 }
 
 public void ClickAdminDetailNextButton() {
@@ -693,8 +693,8 @@ public void verifyWithoutFirstnameOnStep1() throws InterruptedException
 	
 	 strval=driver.findElement(By.xpath("//span[@id='firstNameerr']")).getText();
 	 System.out.println("First name eror is"+strval);
-	 strval2 ="Enter Your First Name.";
-	org.testng.Assert.assertTrue(strval.contains(strval2));
+	 strval2 ="Please Enter First Name";
+	 Assert.assertTrue(strval.contains(strval2));
 		
 	 
 	/* Thread.sleep(1000);	
@@ -725,7 +725,7 @@ public void verifyWithoutContactNumberOnStep1() throws InterruptedException
 	 strval=driver.findElement(By.xpath("//span[@id='contactNoerr']")).getText();
 	 System.out.println("First name eror is"+strval);
 	 strval2 ="Please Enter Valid Contact Number.";
-	 Assert.assertEquals("Verified Please Enter Valid Contact Number. text", strval2, strval);
+	 Assert.assertTrue(strval.contains(strval2));
 		
 	 Thread.sleep(1000);	
 	 String xpath="//input[@id='contactNo1']";
@@ -733,10 +733,10 @@ public void verifyWithoutContactNumberOnStep1() throws InterruptedException
 	 objRegisterPage.ClickAdminDetailNextButton();
 		
 	 Thread.sleep(1000);	
-	 strval=driver.findElement(By.xpath("//span[@id='contactNoerr']")).getText();
+	 strval3=driver.findElement(By.xpath("//span[@id='contactNoerr']")).getText();
 	 System.out.println("First name eror is"+strval);
-	 strval2 ="Please Enter Valid Contact Number.";
-	 Assert.assertEquals("Verified Please Enter Valid Contact Number. text", strval2, strval);
+	 strval4 ="Please Enter Valid Contact Number.";
+	 Assert.assertTrue(strval3.contains(strval4));
 
 	 objBaseClass.refresh();
 	
@@ -944,7 +944,7 @@ public void verifyClinicCost() throws InterruptedException
 	strval=driver.findElement(By.xpath("//div[@class='form-check col-sm-12  col-lg-6'][1]")).getText();
 	
 	System.out.println("Clinic Value is "+strval);
-	strval2 ="1,999.00";
+	strval2 ="7,500.00";
 	//Assert.assertEquals("Verified Clinic name is correct", strval2, strval);
 	assertTrue(strval.contains(strval2));
 	
@@ -958,7 +958,7 @@ public void verifyWebSiteCost() throws InterruptedException
 	strval=driver.findElement(By.xpath("//div[@class='form-check col-sm-12  col-lg-6'][2]")).getText();
 	
 	System.out.println("Websitec Value is "+strval);
-	strval2 ="1,999.00";
+	strval2 ="2,500.00";
 
 	assertTrue(strval.contains(strval2));
 	
@@ -969,7 +969,7 @@ public void verifyTotalCostWithoutWebsiteAndAdvertisement() throws InterruptedEx
 	Thread.sleep(2000);
 	strval=driver.findElement(By.xpath("/html/body/div/div[3]/div/div/div/form/div[1]/div[2]/div[3]/div[4]")).getText();
 	System.out.println("Total Cost  is "+strval);
-	strval2 ="2,358.82";
+	strval2 ="8,850.00";
 	assertTrue(strval.contains(strval2));
 	
 }
@@ -982,7 +982,7 @@ public void verifyTotalCostWithWebsite() throws InterruptedException
 	Thread.sleep(2000);
 	strval=driver.findElement(By.xpath("/html/body/div/div[3]/div/div/div/form/div[1]/div[2]/div[3]/div[4]")).getText();
 	System.out.println("Total Cost  is "+strval);
-	strval2 ="4717.64";
+	strval2 ="8968.00";
 	assertTrue(strval.contains(strval2));
 	
 }
@@ -997,7 +997,7 @@ public void verifyTotalCostWithWebsiteAndOnlyOneMonthAdver() throws InterruptedE
 	Thread.sleep(2000);
 	strval=driver.findElement(By.xpath("/html/body/div/div[3]/div/div/div/form/div[1]/div[2]/div[3]/div[4]")).getText();
 	System.out.println("Total Cost  is "+strval);
-	strval2 ="4835.64";
+	strval2 ="8968.00";
 	assertTrue(strval.contains(strval2));
 	
 }
@@ -1026,7 +1026,7 @@ public void verifyTotalCostWithWebsiteAndAdver_2_Month() throws InterruptedExcep
 	Thread.sleep(2000);
 	strval=driver.findElement(By.xpath("/html/body/div/div[3]/div/div/div/form/div[1]/div[2]/div[3]/div[4]")).getText();
 	System.out.println("Total Cost  is "+strval);
-	strval2 ="4953.64";
+	strval2 ="9086.00";
 	assertTrue(strval.contains(strval2));
 	
 }
@@ -1040,7 +1040,7 @@ public void verifyTotalCostWithWebsiteAndAdver_3_Month() throws InterruptedExcep
 	Thread.sleep(2000);
 	strval=driver.findElement(By.xpath("/html/body/div/div[3]/div/div/div/form/div[1]/div[2]/div[3]/div[4]")).getText();
 	System.out.println("Total Cost  is "+strval);
-	strval2 ="5012.64";
+	strval2 ="9145.00";
 	assertTrue(strval.contains(strval2));
 	
 }
@@ -1087,7 +1087,7 @@ public void verifyTotalCostWithoutSMSServices() throws InterruptedException
 	Thread.sleep(1000);
 	strval=driver.findElement(By.xpath("/html/body/div/div[3]/div/div/form/div/div[1]/div[2]/div[3]/div[3]")).getText();
 	System.out.println("Total Cost  is "+strval);
-	strval2 ="5,012.64";
+	strval2 ="9,145.00";
 	assertTrue(strval.contains(strval2));
 	
 }
@@ -1176,7 +1176,7 @@ public void VerifiedSMSRateFor100() throws InterruptedException {
 	Thread.sleep(2000);
 	strval3=driver.findElement(By.xpath("/html/body/div/div[3]/div/div/form/div/div[1]/div[2]/div[3]/div[3]")).getText();
 	System.out.println("Total Cost  is "+strval3);
-	strval4 ="5030.34";
+	strval4 ="9162.70";
 	assertTrue(strval3.contains(strval4));
 	
 	objRegisterPage.ClearSMSQTY();
@@ -1191,7 +1191,7 @@ public void VerifiedSMSRateFor1000() throws InterruptedException {
 	Thread.sleep(2000);
 	strval3=driver.findElement(By.xpath("/html/body/div/div[3]/div/div/form/div/div[1]/div[2]/div[3]/div[3]")).getText();
 	System.out.println("Total Cost  is "+strval3);
-	strval4 ="5189.64";
+	strval4 ="9322.00";
 	assertTrue(strval3.contains(strval4));
 
 }
