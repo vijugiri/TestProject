@@ -43,7 +43,7 @@ public class LoginPageView extends BaseClass{
 		objLoginPage.ClickLoginLink();
 		strval=	driver.findElement(By.xpath("//span[@id='errormsg']")).getText();
 		strval2 ="Please enter valid mobile no.";
-		Assert.assertEquals("Verified no any data is entered", strval2, strval);
+		Assert.assertTrue(strval.contains(strval2));
 		objBaseClass.refresh();
 		}
 	
@@ -58,7 +58,7 @@ public class LoginPageView extends BaseClass{
 		
 		strval=	driver.findElement(By.xpath("//span[@id='errormsg']")).getText();
 		strval2 ="Please enter password.";
-		Assert.assertEquals("Verified only mobile number is entered", strval2, strval);
+		Assert.assertTrue(strval.contains(strval2));
 		objBaseClass.refresh();
 	}
 	
@@ -78,7 +78,7 @@ public class LoginPageView extends BaseClass{
 		System.out.println(strval);
 		
 		strval2 ="Please enter valid mobile no.";
-		Assert.assertEquals("Verified only password is entered", strval2, strval);
+		Assert.assertTrue(strval.contains(strval2));
 		objBaseClass.refresh();
 	}
 	
@@ -98,7 +98,7 @@ public class LoginPageView extends BaseClass{
 		System.out.println(strval);
 		
 		strval2 ="Invalid credentials..!";
-		Assert.assertEquals("Verified Wrong credintial", strval2, strval);
+		Assert.assertTrue(strval.contains(strval2));
 		objBaseClass.refresh();
 	}
 	
@@ -111,11 +111,11 @@ public class LoginPageView extends BaseClass{
 		Thread.sleep(3000);
 		objBaseClass.setText("//input[@id='userName']", userName);
 		Thread.sleep(1000);
-		strval=	driver.findElement(By.xpath("//span[@id='errormsg']")).getText();
+		strval=	driver.findElement(By.xpath("//span[contains(text(),'This Mobile number is not registered.')]")).getText();
 		System.out.println(strval);
 		
 		strval2 ="This Mobile number is not registered.";
-		Assert.assertEquals("Verified mobile number is not registered", strval2, strval);
+		Assert.assertTrue(strval.contains(strval2));
 		objBaseClass.refresh();
 	}
 	
@@ -135,7 +135,7 @@ public class LoginPageView extends BaseClass{
 		System.out.println(strval);
 		
 		strval2 ="Please select clinic.";
-		Assert.assertEquals("Verified Login is unsucessful without selecting clinic", strval2, strval);
+		Assert.assertTrue(strval.contains(strval2));
 		Thread.sleep(2000);
 		objBaseClass.refresh();
 	}
@@ -196,7 +196,7 @@ public class LoginPageView extends BaseClass{
 	{
 		String strval=driver.findElement(By.cssSelector("#userName")).getAttribute("placeholder");
 		strval2 ="Mobile Number";
-		Assert.assertEquals("Verified Lmobile number place value", strval2, strval);
+		Assert.assertTrue(strval.contains(strval2));
 	
 		
 		
@@ -206,7 +206,7 @@ public class LoginPageView extends BaseClass{
 	{
 		String strval=driver.findElement(By.cssSelector("#password")).getAttribute("placeholder");
 		strval2 ="Password";
-		Assert.assertEquals("Verified Lmobile number place value", strval2, strval);
+	Assert.assertTrue(strval.contains(strval2));
 	
 		
 		

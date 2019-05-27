@@ -15,10 +15,14 @@ public class LoginTest extends BaseClass {
 	LoginPageView objLoginPageView= new LoginPageView();
 	Screenshot objScreenshot = new Screenshot();
 	
+	
+
+	
 	@Test(priority = 1, dataProvider ="inputData")
 	public void setup(String url,String Mob,String Pass) throws InterruptedException
 	{
 		objBaseClass.LocalBrowserInit(url);
+	
 	}
 	
 
@@ -63,25 +67,24 @@ public class LoginTest extends BaseClass {
 		objLoginPageView.loginWithoutUsenameAndWithPassword("12345");
 	}
 	
-	
-	
-	// wrong mobile number or password
-	@Test(priority=6)
+
+// wrong mobile number or password
+	@Test(priority=7)
 	public void invalidMobOrPass() throws InterruptedException 
 	{
-		objLoginPageView.invalidMobOrPass("8208800252","123456969");
+		objLoginPageView.invalidMobOrPass("8888085560","123456969");
 	}
 	
 	
-	
+
 	// make sure mobile no is not registered
-	@Test(priority=7)
+	@Test(priority=6)
 	public void unrRgisteredUser() throws InterruptedException 
 	{
 		objLoginPageView.unrRgisteredUser("8380802005");
 	}
 	
-	
+
 		// make sure mobile number and password should be correct
 		@Test(priority=8)
 		public void LoginWithoutSelectingClinic() throws InterruptedException 

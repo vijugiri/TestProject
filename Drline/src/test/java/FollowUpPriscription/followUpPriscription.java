@@ -70,7 +70,7 @@ public class followUpPriscription extends BaseClass{
 			}
 		
 
-		
+/*		
 	@Test(priority = 2)
 		public void UnselectOWNInventory() throws InterruptedException
 		{
@@ -85,7 +85,7 @@ public class followUpPriscription extends BaseClass{
 		}
 		
 		
-		
+		*/
 
 	
 	
@@ -98,6 +98,7 @@ public class followUpPriscription extends BaseClass{
 			
 			obBookAppointmentFromAddPatientAppointmentPage.AddpatientFromAppointmentPage(SearchPatient, FullName, Disease, MobNo, EmailId, Age, Gender, Weight, Height, State, District, City, Note);
 			objBaseClass.refresh();
+
 			objAppointmentView.clickAppointmentMenu();
 			objAppointmentView.ClickOnProcess();
 			objDashboardView.clickDashboardMenu();
@@ -112,6 +113,7 @@ public class followUpPriscription extends BaseClass{
 			objTreatmentView.VerifyAmount(ConsultingCharge);
 			logger.info("Consulting charges are correct");
 			objTreatmentView.clickOnCollect();
+			Thread.sleep(2000);
 			objBaseClass.refresh();
 			logger.info("Patient closed Sucessfully");
 			objDashboardView.clickDashboardMenu();

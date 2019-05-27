@@ -167,4 +167,21 @@ public class AddPatientSetting   extends BaseClass {
 		
 		
 		
+		
+		
+
+@Test(priority = 7)
+public void RevertAddPatientSetting()throws InterruptedException		{
+	objDashboardPage.clickDashboardMenu();
+	objAppointmentView.clickAppointmentMenu();
+	objDashboardPage.clickDashboardMenu();
+	objSettingView.clickSettingMenu();
+	objSetingPage.clickAddPatientSetting();
+	objSettingView.selectEmp();
+	objSettingView.selecNotechkbox();
+	objSettingView.clivkOnSave();
+	objDashboardPage.clickDashboardMenu();
+}
+		
+		
 }

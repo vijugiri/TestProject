@@ -246,7 +246,7 @@ static 	String strval2=null;
 				objTransactionView.verifyHistoryOfHandoverHistory(strval3, strval2);
 			
 				objDashboardView.clickDashboardMenu();
-			driver.close();
+			//driver.close();
 				
 				
 	

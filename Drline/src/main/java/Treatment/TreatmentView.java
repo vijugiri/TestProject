@@ -196,7 +196,7 @@ public void verifypatientdisease(String Disease) throws InterruptedException {
 		Thread.sleep(1000);
 		this.SetConsultingCharges(ConsultingCharge);
 		Thread.sleep(1000);
-		this.SetAdvice(Note);
+		//this.SetAdvice(Note);
 		Thread.sleep(1000);
 			
 	}
@@ -1267,14 +1267,14 @@ public void clickSettingIcon() {
 
 public void selectPULSESCheckboxTreatmentSetting() {
 	
-	objBaseClass.selectCheckbox("//input[@id='propertiesValue_1629']");
+	objBaseClass.selectCheckbox("//input[@id='propertiesValue_558']");
 	
 	
 }
 
 
 public void unSelectPULSESCheckboxTreatmentSetting() {
-	objBaseClass.unSelectCheckbox("//input[@id='propertiesValue_1629']");
+	objBaseClass.unSelectCheckbox("//input[@id='propertiesValue_558']");
 	
 }
 
@@ -1282,7 +1282,7 @@ public void unSelectPULSESCheckboxTreatmentSetting() {
 
 public void selectBlood_PressureCheckboxTreatmentSetting() {
 	
-	objBaseClass.selectCheckbox("//input[@id='propertiesValue_1630']");
+	objBaseClass.selectCheckbox("//input[@id='propertiesValue_559']");
 	
 	
 }
@@ -1292,7 +1292,7 @@ public void unSelectBlood_PressureCheckboxTreatmentSetting() {
 	
 
 	
-	objBaseClass.unSelectCheckbox("//input[@id='propertiesValue_1630']");
+	objBaseClass.unSelectCheckbox("//input[@id='propertiesValue_559']");
 	
 }
 
@@ -1300,7 +1300,7 @@ public void unSelectBlood_PressureCheckboxTreatmentSetting() {
 
 public void selectR_RCheckboxTreatmentSetting() {
 	
-	objBaseClass.selectCheckbox("//input[@id='propertiesValue_1631']");
+	objBaseClass.selectCheckbox("//input[@id='propertiesValue_560']");
 	
 	
 }
@@ -1311,7 +1311,7 @@ public void unSelectR_RCheckboxTreatmentSetting() {
 
 	
 	
-	objBaseClass.unSelectCheckbox("//input[@id='propertiesValue_1631']");
+	objBaseClass.unSelectCheckbox("//input[@id='propertiesValue_560']");
 
 	
 }
@@ -1324,7 +1324,7 @@ public void unSelectR_RCheckboxTreatmentSetting() {
 
 public void selectTempCheckboxTreatmentSetting() {
 	
-	objBaseClass.selectCheckbox("//input[@id='propertiesValue_1632']");
+	objBaseClass.selectCheckbox("//input[@id='propertiesValue_561']");
 	
 	
 }
@@ -1336,7 +1336,7 @@ public void selectTempCheckboxTreatmentSetting() {
 public void unSelectTempCheckboxTreatmentSetting() {
 	
 	
-	objBaseClass.unSelectCheckbox("//input[@id='propertiesValue_1632']");
+	objBaseClass.unSelectCheckbox("//input[@id='propertiesValue_561']");
 
 	
 }
@@ -1350,7 +1350,7 @@ public void unSelectTempCheckboxTreatmentSetting() {
 public void unSelectK_C_OCheckboxTreatmentSetting() {
 	
 	
-	objBaseClass.unSelectCheckbox("//input[@id='propertiesValue_1633']");
+	objBaseClass.unSelectCheckbox("//input[@id='propertiesValue_562']");
 	
 	
 }
@@ -1363,7 +1363,7 @@ public void unSelectK_C_OCheckboxTreatmentSetting() {
 
 public void selectK_C_OCheckboxTreatmentSetting() {
 	
-	objBaseClass.selectCheckbox("//input[@id='propertiesValue_1633']");
+	objBaseClass.selectCheckbox("//input[@id='propertiesValue_562']");
 	
 	
 }

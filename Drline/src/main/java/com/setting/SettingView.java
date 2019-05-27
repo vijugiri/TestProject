@@ -60,10 +60,10 @@ SetingPage objSetingPage= new SetingPage();
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		 // objSetingPage.UnselectOwnProperties();
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		  
-			if(driver.findElement(By.xpath("//input[@id='clinicPropertiesId_330']")).isSelected())
+		  Thread.sleep(3000);
+			if(driver.findElement(By.xpath("//input[@id='clinicPropertiesId_20']")).isSelected())
 			{
-				driver.findElement(By.xpath("//input[@id='clinicPropertiesId_330']")).click();
+				driver.findElement(By.xpath("//input[@id='clinicPropertiesId_20']")).click();
 			}
 			
 this.closeokPopup();

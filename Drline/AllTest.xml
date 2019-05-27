@@ -7,7 +7,8 @@
 				<listener class-name ="com.screenshot.ListenerTest"></listener>
 			
 </listeners>
-	 <test name="Drline">
+
+ <test name="Drline">
  			<classes>
  							<class name="inventoryOFClicnic.Vendor_test"/>	
  			</classes>
@@ -137,11 +138,7 @@
  			</classes>
 	</test>	 	
 
-	 <test name="AddPatientSetting">
- 			<classes>
- 								<class name="Setting.AddPatientSetting"/>	
- 			</classes>
-	</test>	 
+	  
 
 	 <test name="Setting">
  			<classes>
@@ -235,15 +232,7 @@
  								<class name="DashBoard.BookApointmentFromDashboard"/>	
  			</classes>
 	</test>  
-	
-	
-	
-	
-	
-	 
-	 
-
-	 	 	
+ 	
 	<test name="Register1">
  			<classes>
  								<class name="Register.CompleteRegisterClinic"/>	
@@ -257,5 +246,11 @@
  								<class name="Register.PaymentRegister"/>	
  			</classes>
 	</test>
+	
+	<test name="AddPatientSetting">
+ 			<classes>
+ 								<class name="Setting.AddPatientSetting"/>	
+ 			</classes>
+	</test>	
 
 </suite>

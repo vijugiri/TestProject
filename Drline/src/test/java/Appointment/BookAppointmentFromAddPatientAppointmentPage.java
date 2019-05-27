@@ -76,7 +76,7 @@ public class BookAppointmentFromAddPatientAppointmentPage extends BaseClass{
 				objBaseClass.refresh();
 				
 				
-				driver.close();
+			
 				
 				
 				
