@@ -82,11 +82,11 @@ this.closeokPopup();
 	 // objSetingPage.UnselectOwnProperties();
 		Thread.sleep(2000);
 	  
-		if(!driver.findElement(By.xpath("//input[@id='clinicPropertiesId_330']")).isSelected())
+		if(!driver.findElement(By.xpath("//input[@id='clinicPropertiesId_20']")).isSelected())
 		{
 			
 			//objBaseClass.mouseHover("//input[@id='clinicPropertiesId_330']");
-			driver.findElement(By.xpath("//input[@id='clinicPropertiesId_330']")).click();
+			driver.findElement(By.xpath("//input[@id='clinicPropertiesId_20']")).click();
 		}
 		
 this.closeokPopup();

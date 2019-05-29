@@ -2391,3 +2391,136 @@
 [INFO ] 2019-05-27 10:18:02.590 [main] Log4j - Local browser has started
 [INFO ] 2019-05-27 10:19:25.450 [main] Log4j - Local browser has started
 [INFO ] 2019-05-27 10:20:40.961 [main] Log4j - Local browser has started
+[INFO ] 2019-05-27 10:40:44.678 [main] Log4j - Local browser has started
+[INFO ] 2019-05-27 11:04:24.520 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:02:06.743 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:03:59.880 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:05:43.975 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:06:22.777 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 09:07:05.418 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:09:12.234 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 09:09:12.517 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 09:09:28.492 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 09:09:45.500 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 09:10:01.952 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:11:36.366 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:14:03.505 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 09:14:18.325 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-05-29 09:14:21.099 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-05-29 09:14:39.451 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:17:30.774 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 09:26:04.992 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:28:01.369 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-05-29 09:28:41.947 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-05-29 09:28:52.757 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-05-29 09:30:57.796 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 09:31:04.414 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-05-29 09:31:09.420 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-05-29 09:31:12.667 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-05-29 09:35:06.073 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:37:27.794 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:40:06.445 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-05-29 09:40:11.210 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-05-29 09:40:14.609 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-05-29 09:42:29.939 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-05-29 09:42:34.583 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-05-29 09:42:37.620 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-05-29 09:44:19.976 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:46:58.907 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:49:41.156 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-05-29 09:49:46.277 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-05-29 09:49:50.927 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-05-29 09:50:32.379 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:52:11.167 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:55:28.323 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 09:59:25.984 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:02:29.423 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:03:42.176 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:05:05.154 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:07:58.397 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:08:04.994 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-05-29 10:08:09.665 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-05-29 10:08:13.051 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-05-29 10:11:06.755 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:12:28.162 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:13:29.602 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:15:48.752 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:16:04.362 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:16:22.540 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:16:37.650 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:16:53.557 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:17:08.898 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:17:09.013 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:17:09.101 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:17:09.201 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:17:09.315 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:17:21.568 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:17:22.830 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:17:23.997 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:17:25.169 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:17:45.706 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:18:46.895 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:19:58.532 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:20:33.332 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:22:04.797 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:22:50.468 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:24:23.350 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:25:59.888 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:26:42.128 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:27:29.244 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:28:14.601 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:28:50.679 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:29:14.017 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:29:42.542 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:30:16.653 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:30:51.263 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:31:44.598 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:33:06.278 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:33:47.851 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:34:37.048 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:35:25.401 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:36:18.726 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:36:59.275 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:39:32.407 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:40:21.760 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:41:06.604 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:41:48.356 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 10:42:38.579 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:43:08.673 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:43:11.877 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:43:32.026 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:43:37.271 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:43:57.511 [main] Log4j - checkbox has been Unselected
+[INFO ] 2019-05-29 10:44:02.751 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:44:22.158 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 10:58:07.248 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 11:02:52.888 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 11:04:57.310 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-05-29 11:05:35.885 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-05-29 11:05:46.563 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-05-29 11:07:49.685 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-05-29 11:07:55.009 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-05-29 11:07:58.196 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-05-29 11:20:45.962 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 11:24:22.410 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 11:24:23.533 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 11:28:47.636 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 11:56:55.446 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 12:00:34.112 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 12:00:35.217 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 12:08:25.240 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 12:10:35.219 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-05-29 12:11:16.277 [main] Log4j - Patient updated sucessfully
+[INFO ] 2019-05-29 12:11:28.197 [main] Log4j - Patient Deleted sucessfully
+[INFO ] 2019-05-29 12:13:37.716 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-05-29 12:13:43.225 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-05-29 12:13:46.930 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-05-29 12:16:54.018 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 12:16:55.111 [main] Log4j - checkbox has been selected
+[INFO ] 2019-05-29 12:30:59.062 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 12:32:46.373 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 12:35:34.823 [main] Log4j - Priscription added sucessfully
+[INFO ] 2019-05-29 12:35:39.436 [main] Log4j - Consulting charges are correct
+[INFO ] 2019-05-29 12:35:42.928 [main] Log4j - Patient closed Sucessfully
+[INFO ] 2019-05-29 12:42:49.331 [main] Log4j - Local browser has started
+[INFO ] 2019-05-29 12:52:17.674 [main] Log4j - Local browser has started

@@ -5,51 +5,85 @@
     <listener class-name="com.extenrreport.extentReportlistner"/>
     <listener class-name="com.screenshot.ListenerTest"/>
   </listeners>
+  <test thread-count="5" name="HappyFlow1(failed)">
+    <classes>
+      <class name="forrowrdFlow.PendingAndWithInventory">
+        <methods>
+          <include name="selectOWNInventory"/>
+        </methods>
+      </class> <!-- forrowrdFlow.PendingAndWithInventory -->
+    </classes>
+  </test> <!-- HappyFlow1(failed) -->
+  <test thread-count="5" name="HappyFlow2(failed)">
+    <classes>
+      <class name="forrowrdFlow.HappyFlow">
+        <methods>
+          <include name="BillBookOperations" invocation-numbers="0"/>
+          <include name="AddReport" invocation-numbers="0"/>
+          <include name="AllHistoriesOperations" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- forrowrdFlow.HappyFlow -->
+    </classes>
+  </test> <!-- HappyFlow2(failed) -->
+  <test thread-count="5" name="FollowUpPriscription(failed)">
+    <classes>
+      <class name="FollowUpPriscription.followUpPriscription">
+        <methods>
+          <include name="HappyFlowFromAddpatientToBilling" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- FollowUpPriscription.followUpPriscription -->
+    </classes>
+  </test> <!-- FollowUpPriscription(failed) -->
+  <test thread-count="5" name="Appointment1(failed)">
+    <classes>
+      <class name="Appointment.ComponentsOnAppointment">
+        <methods>
+          <include name="ComponentsOnAppointmentPage" invocation-numbers="0"/>
+          <include name="processBookedAppointment" invocation-numbers="0"/>
+          <include name="EditBookedAppointment" invocation-numbers="0"/>
+          <include name="CancelBookedAppointmentWithNoButton" invocation-numbers="0"/>
+          <include name="CancelBookedAppointmentWithYesButton" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Appointment.ComponentsOnAppointment -->
+    </classes>
+  </test> <!-- Appointment1(failed) -->
+  <test thread-count="5" name="DashBoard1(failed)">
+    <classes>
+      <class name="DashBoard.DashboardComponents">
+        <methods>
+          <include name="ComponentDosplayedonPatientBookingPage" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- DashBoard.DashboardComponents -->
+    </classes>
+  </test> <!-- DashBoard1(failed) -->
   <test thread-count="5" name="Transaction(failed)">
     <classes>
       <class name="Transaction.CollectionAndExpendituree">
         <methods>
-          <include name="HappyFlowFromAddpatientToBilling" invocation-numbers="0"/>
-          <include name="UnselectOWNInventory"/>
+          <include name="editExpenditure" invocation-numbers="0"/>
         </methods>
       </class> <!-- Transaction.CollectionAndExpendituree -->
     </classes>
   </test> <!-- Transaction(failed) -->
-  <test thread-count="5" name="Transaction1(failed)">
-    <classes>
-      <class name="Transaction.Handover">
-        <methods>
-          <include name="verifyhandover" invocation-numbers="0"/>
-        </methods>
-      </class> <!-- Transaction.Handover -->
-    </classes>
-  </test> <!-- Transaction1(failed) -->
-  <test thread-count="5" name="Trenment(failed)">
-    <classes>
-      <class name="Trenment.treatmentSettingTest">
-        <methods>
-          <include name="verifyCancaelButton"/>
-          <include name="HappyFlowFromAddpatientToBilling" invocation-numbers="0"/>
-          <include name="verifyAllCheckboxSelectedProper"/>
-        </methods>
-      </class> <!-- Trenment.treatmentSettingTest -->
-    </classes>
-  </test> <!-- Trenment(failed) -->
   <test thread-count="5" name="loginTest1(failed)">
     <classes>
       <class name="loginTest.LoginTest">
         <methods>
           <include name="invalidMobOrPass"/>
-          <include name="loginWithUsernameAndWithoutPassword"/>
-          <include name="loginWithoutUsenameAndWithPassword"/>
-          <include name="LoginWithoutSelectingClinic"/>
-          <include name="Login" invocation-numbers="0"/>
-          <include name="Logout"/>
-          <include name="componentDisplayedonLoginpage"/>
-          <include name="loginWithoutUserNameAndPassword"/>
-          <include name="unrRgisteredUser"/>
         </methods>
       </class> <!-- loginTest.LoginTest -->
     </classes>
   </test> <!-- loginTest1(failed) -->
+  <test thread-count="5" name="DashBoard(failed)">
+    <classes>
+      <class name="DashBoard.BookApointmentFromDashboard">
+        <methods>
+          <include name="SelectDateToBooKAppointment" invocation-numbers="0"/>
+          <include name="ComponentDosplayedonBookedPopUP" invocation-numbers="0"/>
+          <include name="VerifyDetailsFromBooKedAppointment" invocation-numbers="0"/>
+          <include name="canceledBooKedAppointment" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- DashBoard.BookApointmentFromDashboard -->
+    </classes>
+  </test> <!-- DashBoard(failed) -->
 </suite> <!-- Failed suite [DrlineAutomation] -->

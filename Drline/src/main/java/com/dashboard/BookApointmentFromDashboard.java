@@ -34,13 +34,17 @@ public class BookApointmentFromDashboard extends BaseClass{
 		
 		//@Test(priority = 1, dataProvider ="inputData")
 	
-	@BeforeClass
-	public void Login() throws InterruptedException 
-			{	objBaseClass.LocalBrowserInit(url);
-				objLoginPageView.Login(Mob,Pass);
-				objLoginPageView.YesPopup();
-				
-			}
+	@Test(priority =-11, dataProvider ="inputData")
+	public void Login(String url,String Mob,String Pass ) throws InterruptedException 
+		{
+		objBaseClass.LocalBrowserInit(url);
+	
+			objLoginPageView.Login(Mob,Pass);
+		
+			objLoginPageView.YesPopup();
+	
+
+		}
 	
 		
 		

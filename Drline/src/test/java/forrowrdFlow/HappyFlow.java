@@ -67,7 +67,6 @@ public class HappyFlow extends BaseClass{
 		
 	
 			}
-	
 
 	
 	@Test(priority = 2)
@@ -182,7 +181,7 @@ public class HappyFlow extends BaseClass{
 		
 		}
 		
-		
+	
 		
 		
 		@Test(priority = 5, dataProvider ="HappyFlow")

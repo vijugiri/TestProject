@@ -3,11 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="loginTest.LoginTest">
+      <class name="com.dashboard.BookApointmentFromDashboard">
         <methods>
-          <include name="invalidMobOrPass"/>
+          <include name="ComponentDosplayedonBookedPopUP" invocation-numbers="0"/>
+          <include name="SelectDateToBooKAppointment" invocation-numbers="0"/>
+          <include name="canceledBooKedAppointment" invocation-numbers="0"/>
+          <include name="VerifyDetailsFromBooKedAppointment" invocation-numbers="0"/>
         </methods>
-      </class> <!-- loginTest.LoginTest -->
+      </class> <!-- com.dashboard.BookApointmentFromDashboard -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
